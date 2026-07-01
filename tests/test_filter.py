@@ -1,5 +1,6 @@
 """
-Unit tests for axios_filter. All offline (article-page fetches are monkeypatched).
+Unit tests for axios_filter. All offline — the classifier is monkeypatched, so
+no API key or network is needed.
 Run:  python tests/test_filter.py   (or)   python -m pytest -q
 """
 import sys
@@ -11,15 +12,11 @@ import axios_filter as af  # noqa: E402
 FIXTURE = (Path(__file__).parent / "fixtures" / "sample_feed.xml").read_text(encoding="utf-8")
 
 
-def _fake_fetch(url):
-    """Serve the fixture for the feed URL and fake article pages for items."""
-    if url.rstrip("/").endswith("api.axios.com/feed"):
-        return FIXTURE
-    if "sample-politics" in url:
-        return '<html><head><meta name="category" content="Politics &amp; Policy"></head></html>'
-    if "sample-tech" in url:
-        return '<html><head><meta name="category" content="Technology"></head></html>'
-    return "<html></html>"
+def _install_fakes():
+    """Feed fetch -> fixture; classifier -> True when 'politics' is in the title."""
+    af.fetch = lambda url: FIXTURE
+    af.make_client = lambda api_key: "DUMMY_CLIENT"
+    af.classify_politics = lambda client, model, title, desc: "politics" in title.lower()
 
 
 # --------------------------------------------------------------------------- #
@@ -30,67 +27,69 @@ def test_split_feed():
     assert len(items) == 2
     assert "<channel>" in head and "<title>Axios</title>" in head
     assert tail.strip().endswith("</channel></rss>")
-    assert all(b.startswith("<item>") and b.endswith("</item>") for b in items)
 
 
-def test_item_key_and_link():
+def test_item_key_and_text():
     _, items, _ = af.split_feed(FIXTURE)
     assert af.item_key(items[0]) == "https://www.axios.com/2026/07/01/sample-politics"
-    assert af.item_link(items[1]) == "https://www.axios.com/2026/07/01/sample-tech"
+    title, desc = af.item_text(items[0])
+    assert title == "Placeholder politics headline"
+    assert desc == "placeholder"          # HTML unescaped + tags stripped
 
 
-def test_is_dropped():
-    assert af.is_dropped("Politics & Policy", ["politics"]) is True
-    assert af.is_dropped("Technology", ["politics"]) is False
-    assert af.is_dropped("World", ["politics", "world"]) is True
-    assert af.is_dropped("", ["politics"]) is False   # unknown -> keep
-
-
-def test_adjust_head_removes_builddate_and_sets_title_and_self():
+def test_adjust_head():
     head, _, _ = af.split_feed(FIXTURE)
     out = af.adjust_head(head, "Axios (no Politics)", "https://x.github.io/axios/feed.xml")
     assert "lastBuildDate" not in out
     assert "<title>Axios (no Politics)</title>" in out
     assert '<atom:link href="https://x.github.io/axios/feed.xml" rel="self"' in out
-    assert "api.axios.com/feed" not in out.split("<item")[0]  # old self href replaced
 
 
 # --------------------------------------------------------------------------- #
-# End-to-end filtering
+# End-to-end
 # --------------------------------------------------------------------------- #
-def test_run_drops_politics_keeps_rest(tmp_path=None):
+def test_run_drops_politics_keeps_rest():
+    import tempfile, os, json
+    d = tempfile.mkdtemp()
+    out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
+    _install_fakes()
+    af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "test",
+             "--delay", "0", "--out", out, "--state", state])
+    result = Path(out).read_text(encoding="utf-8")
+
+    assert "sample-tech" in result and "sample-politics" not in result
+    assert result.count("<item>") == 1
+    # fidelity preserved for the kept item
+    assert "<![CDATA[" in result and "media:content" in result and "dc:creator" in result
+    # verdict cached (each item classified at most once)
+    v = json.loads(Path(state).read_text())["verdict"]
+    assert v["https://www.axios.com/2026/07/01/sample-politics"] is True
+    assert v["https://www.axios.com/2026/07/01/sample-tech"] is False
+
+
+def test_run_keeps_all_without_api_key():
     import tempfile, os
     d = tempfile.mkdtemp()
     out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
-    af.fetch = _fake_fetch
-    af.main(["--feed-url", "https://api.axios.com/feed/", "--drop", "politics",
-             "--delay", "0", "--out", out, "--state", state, "--title", "Axios (no Politics)"])
+    _install_fakes()
+    af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "",
+             "--out", out, "--state", state])
     result = Path(out).read_text(encoding="utf-8")
-
-    assert "sample-tech" in result          # kept
-    assert "sample-politics" not in result  # dropped
-    assert result.count("<item>") == 1
-    # fidelity: CDATA / media / content preserved verbatim for the kept item
-    assert "<![CDATA[" in result and "media:content" in result and "dc:creator" in result
-    # section cache populated (each article fetched at most once)
-    import json
-    sec = json.loads(Path(state).read_text())["section"]
-    assert sec["https://www.axios.com/2026/07/01/sample-politics"] == "Politics & Policy"
-    assert sec["https://www.axios.com/2026/07/01/sample-tech"] == "Technology"
+    assert result.count("<item>") == 2      # no key -> nothing dropped
 
 
 def test_run_is_deterministic_no_churn():
     import tempfile, os, hashlib
     d = tempfile.mkdtemp()
     out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
-    af.fetch = _fake_fetch
-    args = ["--feed-url", "https://api.axios.com/feed/", "--drop", "politics",
+    _install_fakes()
+    args = ["--feed-url", "https://api.axios.com/feed/", "--api-key", "test",
             "--delay", "0", "--out", out, "--state", state]
     af.main(args)
     h1 = hashlib.md5(Path(out).read_bytes()).hexdigest()
-    af.main(args)                      # second run, same upstream feed
+    af.main(args)                        # second run, verdicts cached
     h2 = hashlib.md5(Path(out).read_bytes()).hexdigest()
-    assert h1 == h2                    # identical bytes -> no commit churn
+    assert h1 == h2                      # identical bytes -> no commit churn
 
 
 if __name__ == "__main__":

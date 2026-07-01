@@ -23,10 +23,11 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Build filtered feed
         env:
-          AX_DROP: "politics"     # comma-separated section substrings to remove
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # add this secret in repo Settings
+          AX_MODEL: "claude-haiku-4-5-20251001"                 # cheapest model
           AX_TITLE: "Axios (no Politics)"
           AX_FEED_SELF: "https://jov-cra.github.io/axios-filtered/feed.xml"
-        run: python axios_filter.py --report
+        run: python axios_filter.py
       - name: Commit feed + state
         run: |
           git config user.name  "github-actions[bot]"

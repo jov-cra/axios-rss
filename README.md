@@ -1,43 +1,43 @@
-# Axios (filtered)
+# Axios (no Politics)
 
-Ein persönlicher, **gefilterter** Axios-RSS-Feed — standardmäßig **ohne Politik**, alles andere bleibt drin. Läuft kostenlos per GitHub Actions, erzeugt eine `feed.xml`, die du in **Tapestry**, Readwise Reader oder jedem RSS-Reader abonnierst.
+Ein persönlicher, **politikfreier** Axios-RSS-Feed — Politik raus, alles andere bleibt drin. Läuft per GitHub Actions, erzeugt eine `feed.xml`, die du in **Tapestry** o. Ä. abonnierst.
 
-## Warum das nötig ist
+## Warum ein Klassifikator?
 
-Der Axios-Feed (`api.axios.com/feed/`) ist ein einziger Firehose. Das einzige `<category>`-Feld pro Item ist „top" (eine Prominenz-Markierung), also lässt sich **weder im Feed noch in Tapestry** nach Thema filtern. Das echte Ressort steht erst auf der **Artikelseite**: `<meta name="category" content="Politics & Policy">` (plus Breadcrumb-Link auf `axios.com/<section>`).
+Der Axios-Feed taggt Items nur mit `<category>top</category>` (Prominenz, kein Thema). Das echte Ressort steht ausschließlich auf der Artikelseite — und die **blockt Cloudflare für CI-IPs (403)**. Axios hat auch **keine** nativen Themen-Feeds mehr (alle Kandidaten 404/403, geprüft). Es gibt also **kein server-geliefertes Themen-Signal**, das von GitHub aus erreichbar ist.
 
-Deshalb macht dieses Tool den Schritt, den ein Reader nicht kann:
+Deshalb wird jedes Item aus **Titel + Kurzbeschreibung** klassifiziert — mit dem **günstigsten Modell (Haiku)**:
 
 1. Axios-Feed ziehen.
-2. Pro Item **einmal** die Artikelseite laden und die Section auslesen (pro `guid` gecacht → jeder Artikel wird höchstens einmal abgerufen).
-3. Items mit passender Section (Default: alles mit „politics") **rauswerfen**.
-4. Den Feed **byte-treu** neu zusammensetzen — die übrigen `<item>`-Blöcke bleiben unverändert (Bilder, `content:encoded`, Autoren etc. erhalten).
-
-Deterministisch und gratis: kein KI-Modell, kein API-Key.
+2. Für jedes **neue** Item einmal „Politik? ja/nein" fragen; Ergebnis pro `<guid>` **gecacht** (News-Items ändern ihr Ressort nie) → laufende Kosten nur für neue Artikel, Cent-Bereich/Monat.
+3. Politik-Items rauswerfen; **byte-treu** neu zusammensetzen (Bilder, `content:encoded`, Autoren bleiben erhalten).
+4. Bei Fehler/fehlendem Key: Item wird **behalten** (nie droppen bei Unsicherheit).
 
 ## Setup
 
-Dateien in ein **öffentliches** Repo, dann *Settings → Pages → Deploy from branch `main` / root*. Der Workflow (`.github/workflows/feed.yml`) läuft alle 30 Minuten und committet `feed.xml` + `state.json`.
+1. Dateien in ein **öffentliches** Repo, *Settings → Pages → Deploy from branch `main` / root*.
+2. **API-Key als Secret hinterlegen:** *Settings → Secrets and variables → Actions → New repository secret* → Name `ANTHROPIC_API_KEY`, Wert = dein Anthropic-Key. (Der Key wird nur als Secret gespeichert, taucht nie im Code/Log auf.)
+3. Der Workflow läuft alle 30 Min und committet `feed.xml` + `state.json`.
 
 Feed abonnieren:
 ```
 https://jov-cra.github.io/axios-filtered/feed.xml
 ```
 
-## Konfiguration (im Workflow unter `env:`)
+**Ohne Secret** filtert nichts — der Feed läuft dann als unveränderter Axios-Feed weiter, bis der Key da ist.
+
+## Konfiguration (Workflow-`env:`)
 
 | ENV | Default | Bedeutung |
 |-----|---------|-----------|
-| `AX_DROP` | `politics` | Komma-Liste von Section-Teilstrings, die rausfliegen (z. B. `politics,world`) |
-| `AX_TITLE` | `Axios (filtered)` | Feed-Titel |
+| `ANTHROPIC_API_KEY` | – (Secret) | Anthropic-Key für die Klassifikation |
+| `AX_MODEL` | `claude-haiku-4-5-20251001` | günstigstes Modell |
+| `AX_TITLE` | `Axios (no Politics)` | Feed-Titel |
 | `AX_FEED_URL` | `https://api.axios.com/feed/` | Quell-Feed |
 | `AX_FEED_SELF` | – | öffentliche Feed-URL (atom:self) |
-| `AX_FETCH_MAX` | `120` | max. Artikel-Abrufe pro Lauf (begrenzt den ersten Durchlauf) |
-| `AX_FETCH_DELAY` | `0.4` | Sekunden Pause zwischen Abrufen (Höflichkeit) |
+| `AX_CLASSIFY_MAX` | `150` | max. Klassifikationen pro Lauf |
 
-**Welche Sections gibt es?** `python axios_filter.py --report` (oder der `--report`-Lauf im Workflow) listet im Log alle real vorkommenden Sections mit Anzahl und ob sie `keep`/`DROP` sind. So siehst du genau, was du zusätzlich filtern könntest.
-
-**Unbekannte Section → wird behalten.** Wenn eine Artikelseite mal nicht ladbar/lesbar ist, wird das Item **nicht** verworfen (kein versehentliches Löschen; wird beim nächsten Lauf erneut versucht).
+Was als „Politik" zählt, steht im `PROMPT` in `axios_filter.py` (US-Politik/Politics & Policy; Business/Tech/Economy/… gelten NICHT als Politik, auch wenn ein Politiker vorkommt). Trivial anpassbar.
 
 ## Tests
 
@@ -45,4 +45,4 @@ https://jov-cra.github.io/axios-filtered/feed.xml
 pip install -r requirements.txt
 python tests/test_filter.py
 ```
-Deckt Feed-Zerlegung, Section-Drop-Logik, Head-Anpassung, End-to-End-Filtern und byte-identische Ausgabe (kein Commit-Churn) ab — alles offline.
+Alles offline (Klassifikator gemockt): Feed-Zerlegung, Politik-Drop, Head-Anpassung, „ohne Key nichts droppen" und byte-identische Ausgabe (kein Commit-Churn).
