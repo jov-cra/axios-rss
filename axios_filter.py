@@ -189,22 +189,30 @@ def _hires(url: str) -> str:
     return url
 
 
+def _drop_media_content(block: str) -> str:
+    """Remove the chart's <media:content> once it's inline in the body, so the
+    reader can't render the same chart a second time (top + bottom)."""
+    return MEDIA_CONTENT_RE.sub("", block, count=1)
+
+
 def inject_chart(block: str) -> str:
     """Charts live in <media:content> (a static PNG), not inline in the body, so
     readers that ignore <media:content> (e.g. Tapestry) don't show them. If the
-    item's media is a chart, prepend a crisp <img> to content:encoded. Photos are
-    left alone (not duplicated). Idempotent."""
+    item's media is a chart, prepend a crisp <img> to content:encoded AND drop the
+    <media:content> enclosure so the chart appears exactly once, at the top.
+    Photos are left untouched. Idempotent."""
     url, desc = _media_content(block)
     if not url or not _is_chart(url, desc):
         return block
     ce = re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]></content:encoded>", block, re.DOTALL)
-    if not ce or url in ce.group(1):
+    if not ce:
         return block
     img = _hires(url)
-    if img in ce.group(1):
-        return block
+    if img in ce.group(1) or url in ce.group(1):
+        return _drop_media_content(block)   # already inline -> just remove the duplicate enclosure
     new_ce = f'<content:encoded><![CDATA[<p><img src="{img}" alt="Chart"/></p>{ce.group(1)}]]></content:encoded>'
-    return block[:ce.start()] + new_ce + block[ce.end():]
+    block = block[:ce.start()] + new_ce + block[ce.end():]
+    return _drop_media_content(block)
 
 
 def strip_thumbnail(block: str) -> str:

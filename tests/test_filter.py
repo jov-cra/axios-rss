@@ -121,6 +121,7 @@ def test_inject_chart_by_description_and_strip_thumbnail():
     out = af.inject_chart(chart)
     assert '<img src="https://images.axios.com/chart.png"' in out
     assert out.count("<content:encoded>") == 1
+    assert "media:content" not in out                     # enclosure removed -> chart appears once
     assert af.inject_chart(out) == out                    # idempotent
     # a normal photo -> NOT injected (avoid duplicating the hero)
     photo = base.replace("URL", "https://images.axios.com/p.jpg").replace("DESC", "Photo: Getty Images")
