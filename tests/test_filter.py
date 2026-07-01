@@ -107,6 +107,24 @@ def test_run_is_deterministic_no_churn():
     assert h1 == h2                      # identical bytes -> no commit churn
 
 
+def test_inject_chart_only_for_chart_hosts():
+    base = ('<item><title>Econ data</title>'
+            '<link>https://www.axios.com/2026/07/01/econ</link>'
+            '<content:encoded><![CDATA[<p>body</p>]]></content:encoded>'
+            '<dc:creator>X</dc:creator>'
+            '<media:content medium="image" type="image/jpeg" url="URL" width="600">'
+            '<media:description>Chart</media:description></media:content>'
+            '<guid>https://www.axios.com/2026/07/01/econ</guid></item>')
+    chart = base.replace("URL", "https://datawrapper.dwcdn.net/a9c9g/fallback.png")
+    out = af.inject_chart(chart)
+    assert '<img src="https://datawrapper.dwcdn.net/a9c9g/fallback.png"' in out
+    assert out.count("<content:encoded>") == 1
+    assert af.inject_chart(out) == out                    # idempotent (no double-inject)
+
+    photo = base.replace("URL", "https://images.axios.com/x.jpg")
+    assert af.inject_chart(photo) == photo                # normal hero photo NOT injected
+
+
 if __name__ == "__main__":
     import traceback
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(v)]

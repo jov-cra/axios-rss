@@ -153,6 +153,26 @@ def _forced(text: str, terms: list[str]) -> bool:
     return any(term in t for term in terms)
 
 
+CHART_HOSTS = ("datawrapper", "dwcdn", "flourish", "infogram")
+
+
+def inject_chart(block: str) -> str:
+    """Axios puts charts in <media:content> as a static PNG (Datawrapper etc.),
+    NOT inline in the body — so readers that ignore <media:content> (e.g. Tapestry)
+    don't show them. If the item's media image is a chart and isn't already inline,
+    prepend it as an <img> to content:encoded. Only chart hosts, so normal hero
+    photos aren't duplicated. Idempotent."""
+    m = re.search(r'<media:content\b[^>]*\burl="([^"]+)"', block)
+    if not m or not any(h in m.group(1) for h in CHART_HOSTS):
+        return block
+    url = m.group(1)
+    ce = re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]></content:encoded>", block, re.DOTALL)
+    if not ce or url in ce.group(1):
+        return block
+    new_ce = f'<content:encoded><![CDATA[<p><img src="{url}" alt="Chart"/></p>{ce.group(1)}]]></content:encoded>'
+    return block[:ce.start()] + new_ce + block[ce.end():]
+
+
 # --------------------------------------------------------------------------- #
 # State
 # --------------------------------------------------------------------------- #
@@ -244,7 +264,7 @@ def run(args) -> int:
         if is_pol:
             dropped += 1
             continue
-        kept.append(block)
+        kept.append(inject_chart(block) if args.inject_charts else block)
 
     # FAIL-CLOSED: if every classification attempt failed, don't overwrite the feed.
     if attempted > 0 and failed == attempted:
@@ -288,6 +308,10 @@ def build_argparser() -> argparse.ArgumentParser:
                    help="comma-separated substrings (guid/title) to always KEEP")
     p.add_argument("--force-drop", default=_env("AX_FORCE_DROP", ""),
                    help="comma-separated substrings (guid/title) to always DROP")
+    p.add_argument("--inject-charts", dest="inject_charts", action="store_true",
+                   default=_env("AX_INJECT_CHARTS", "1") not in ("0", "false", "False", ""),
+                   help="inline chart images (Datawrapper etc.) into the body (default on)")
+    p.add_argument("--no-inject-charts", dest="inject_charts", action="store_false")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--report", action="store_true")
     return p
