@@ -1,6 +1,6 @@
 # Axios (no Politics)
 
-Ein persönlicher, **politikfreier** Axios-RSS-Feed — Politik raus, alles andere bleibt drin. Läuft per GitHub Actions, erzeugt eine `feed.xml`, die du in **Tapestry** o. Ä. abonnierst.
+Ein persönlicher, **politikfreier** Axios-RSS-Feed — **US-Politik und World/Außenpolitik raus**, alles andere (Business, Tech, Economy, Science, Health, …) bleibt drin. Läuft per GitHub Actions, erzeugt eine `feed.xml`, die du in **Tapestry** o. Ä. abonnierst.
 
 ## Warum ein Klassifikator?
 
@@ -21,10 +21,10 @@ Deshalb wird jedes Item aus **Titel + Kurzbeschreibung** klassifiziert — mit d
 
 Feed abonnieren:
 ```
-https://jov-cra.github.io/axios-filtered/feed.xml
+https://jov-cra.github.io/axios-rss/feed.xml
 ```
 
-**Ohne Secret** filtert nichts — der Feed läuft dann als unveränderter Axios-Feed weiter, bis der Key da ist.
+**Fail-closed:** ohne Secret (oder bei systematischem Klassifikations-Ausfall) **bricht der Lauf ab** und lässt den letzten guten Feed stehen, statt still den ungefilterten Firehose auszuliefern. Einzelne transiente Fehler behalten nur das betroffene Item. Manuelle Korrekturen: `AX_FORCE_KEEP` / `AX_FORCE_DROP` (Komma-Liste von Substrings in guid/Titel).
 
 ## Konfiguration (Workflow-`env:`)
 

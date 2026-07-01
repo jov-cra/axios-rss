@@ -54,7 +54,7 @@ def test_run_drops_politics_keeps_rest():
     out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
     _install_fakes()
     af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "test",
-             "--delay", "0", "--out", out, "--state", state])
+             "--out", out, "--state", state])
     result = Path(out).read_text(encoding="utf-8")
 
     assert "sample-tech" in result and "sample-politics" not in result
@@ -63,19 +63,34 @@ def test_run_drops_politics_keeps_rest():
     assert "<![CDATA[" in result and "media:content" in result and "dc:creator" in result
     # verdict cached (each item classified at most once)
     v = json.loads(Path(state).read_text())["verdict"]
-    assert v["https://www.axios.com/2026/07/01/sample-politics"] is True
-    assert v["https://www.axios.com/2026/07/01/sample-tech"] is False
+    assert v["https://www.axios.com/2026/07/01/sample-politics"]["pol"] is True
+    assert v["https://www.axios.com/2026/07/01/sample-tech"]["pol"] is False
 
 
-def test_run_keeps_all_without_api_key():
+def test_no_api_key_aborts():
     import tempfile, os
     d = tempfile.mkdtemp()
     out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
     _install_fakes()
-    af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "",
-             "--out", out, "--state", state])
+    try:
+        af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "",
+                 "--out", out, "--state", state])
+        assert False, "missing key must abort (fail-closed, never ship the firehose)"
+    except SystemExit:
+        pass
+    assert not os.path.exists(out)           # nothing written
+
+
+def test_force_overrides_beat_classifier():
+    import tempfile, os
+    d = tempfile.mkdtemp()
+    out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
+    _install_fakes()   # classifier would call the tech item 'keep', politics 'drop'
+    af.main(["--feed-url", "https://api.axios.com/feed/", "--api-key", "test",
+             "--out", out, "--state", state,
+             "--force-keep", "sample-politics", "--force-drop", "sample-tech"])
     result = Path(out).read_text(encoding="utf-8")
-    assert result.count("<item>") == 2      # no key -> nothing dropped
+    assert "sample-politics" in result and "sample-tech" not in result
 
 
 def test_run_is_deterministic_no_churn():
@@ -84,7 +99,7 @@ def test_run_is_deterministic_no_churn():
     out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
     _install_fakes()
     args = ["--feed-url", "https://api.axios.com/feed/", "--api-key", "test",
-            "--delay", "0", "--out", out, "--state", state]
+            "--out", out, "--state", state]
     af.main(args)
     h1 = hashlib.md5(Path(out).read_bytes()).hexdigest()
     af.main(args)                        # second run, verdicts cached
