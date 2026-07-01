@@ -66,7 +66,19 @@ def _env(name: str, default: str) -> str:
 def fetch(url: str) -> str:
     if requests is None:
         raise RuntimeError("The 'requests' package is required: pip install requests")
-    headers = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"}
+    headers = {
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "sec-ch-ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": '"macOS"',
+    }
     resp = requests.get(url, headers=headers, timeout=30)
     resp.raise_for_status()
     return resp.text
