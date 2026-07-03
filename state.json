@@ -525,6 +525,11 @@
       "seen": "2026-07-03",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/02/jobs-data-world-cup": {
+      "pol": false,
+      "seen": "2026-07-03",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/02/jobs-report-labor-market-june": {
       "pol": false,
       "seen": "2026-07-03",
@@ -547,6 +552,11 @@
     },
     "https://www.axios.com/2026/07/02/trump-allies-ai-power": {
       "pol": true,
+      "seen": "2026-07-03",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/03/us-presidents-portrait-exhibit-america-250": {
+      "pol": false,
       "seen": "2026-07-03",
       "v": "v2"
     },
