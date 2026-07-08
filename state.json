@@ -730,8 +730,28 @@
       "seen": "2026-07-08",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/08/gop-senate-campaign-spending-ohio-iowa": {
+      "pol": true,
+      "seen": "2026-07-08",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/08/obamacare-aca-premiums-price-jump": {
+      "pol": false,
+      "seen": "2026-07-08",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted": {
       "pol": false,
+      "seen": "2026-07-08",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/08/state-department-official-machado-venezuela": {
+      "pol": true,
+      "seen": "2026-07-08",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/08/trump-iran-ceasefire-over": {
+      "pol": true,
       "seen": "2026-07-08",
       "v": "v2"
     },
