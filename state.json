@@ -810,12 +810,32 @@
       "seen": "2026-07-09",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/09/latino-vote-divide-identity-democrats-gop": {
+      "pol": true,
+      "seen": "2026-07-09",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/09/microsoft-ai-data-centers-climate-goals": {
+      "pol": false,
+      "seen": "2026-07-09",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/09/momentum-stocks-chip-memory": {
+      "pol": false,
+      "seen": "2026-07-09",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/09/taxes-america-income-sales-taxes": {
       "pol": false,
       "seen": "2026-07-09",
       "v": "v2"
     },
     "https://www.axios.com/2026/07/09/trump-iran-strait-hormuz-battle": {
+      "pol": true,
+      "seen": "2026-07-09",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/09/trump-trade-spain-eu": {
       "pol": true,
       "seen": "2026-07-09",
       "v": "v2"
