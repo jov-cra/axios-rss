@@ -890,6 +890,11 @@
       "seen": "2026-07-10",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/10/fed-task-forces-fomc": {
+      "pol": false,
+      "seen": "2026-07-10",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing": {
       "pol": true,
       "seen": "2026-07-10",
@@ -897,6 +902,11 @@
     },
     "https://www.axios.com/2026/07/10/meta-ai-image-consent": {
       "pol": false,
+      "seen": "2026-07-10",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/10/mike-johnson-house-failed-rule-votes": {
+      "pol": true,
       "seen": "2026-07-10",
       "v": "v2"
     },
