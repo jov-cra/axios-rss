@@ -990,6 +990,16 @@
       "seen": "2026-07-13",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/13/judge-trump-irs-settlement-anti-weaponization-fund": {
+      "pol": true,
+      "seen": "2026-07-13",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/13/stocks-memory-earnings-ai": {
+      "pol": false,
+      "seen": "2026-07-13",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/13/transform-america-racist-landmarks": {
       "pol": false,
       "seen": "2026-07-13",
@@ -1002,6 +1012,11 @@
     },
     "https://www.axios.com/2026/07/13/trump-iran-blockade-strait-hormuz": {
       "pol": true,
+      "seen": "2026-07-13",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/13/trump-tariffs-refund-pepsico": {
+      "pol": false,
       "seen": "2026-07-13",
       "v": "v2"
     },
