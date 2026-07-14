@@ -1045,7 +1045,22 @@
       "seen": "2026-07-14",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/14/cpi-june-inflation-energy": {
+      "pol": false,
+      "seen": "2026-07-14",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind": {
+      "pol": true,
+      "seen": "2026-07-14",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/14/fed-warsh-congress-rates": {
+      "pol": false,
+      "seen": "2026-07-14",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/14/jamieson-greer-eu-global-tech-rules": {
       "pol": true,
       "seen": "2026-07-14",
       "v": "v2"
