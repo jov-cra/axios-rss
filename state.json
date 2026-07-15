@@ -1120,6 +1120,11 @@
       "seen": "2026-07-15",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/15/israel-vote-house-massie-amendment-clark-jeffries": {
+      "pol": true,
+      "seen": "2026-07-15",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/15/moynihan-bank-of-america-consumer-spending-economy": {
       "pol": false,
       "seen": "2026-07-15",
@@ -1136,6 +1141,16 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/07/15/uae-ai-government-app-tamm": {
+      "pol": false,
+      "seen": "2026-07-15",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/15/warsh-ai-inflation-senate": {
+      "pol": false,
+      "seen": "2026-07-15",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/15/warsh-inflation-ppi-rates": {
       "pol": false,
       "seen": "2026-07-15",
       "v": "v2"
