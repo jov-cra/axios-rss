@@ -1280,12 +1280,22 @@
       "seen": "2026-07-17",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/17/canada-wildfire-smoke-trump-tariffs": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus": {
       "pol": false,
       "seen": "2026-07-17",
       "v": "v2"
     },
     "https://www.axios.com/2026/07/17/epstein-survivors-blanche-meeting-reaction": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/17/house-senate-pipeline-midterms-wave-congress": {
       "pol": true,
       "seen": "2026-07-17",
       "v": "v2"
@@ -1297,6 +1307,11 @@
     },
     "https://www.axios.com/2026/07/17/pro-ai-super-pac-ready-midterms": {
       "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/17/solo-dining-reservations-jump-opentable": {
+      "pol": false,
       "seen": "2026-07-17",
       "v": "v2"
     },
