@@ -1235,6 +1235,11 @@
       "seen": "2026-07-17",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/16/reconciliation-government-funding-republicans-mike-johnson": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/16/retail-sales-consumer-spending-june": {
       "pol": false,
       "seen": "2026-07-17",
@@ -1271,6 +1276,21 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/07/16/white-house-teleprompter-kalshi-investigation": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/17/trump-china-election-interference-us-intelligence-claim": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/17/trump-china-us-election-interference-documents": {
+      "pol": true,
+      "seen": "2026-07-17",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/17/trump-speech-tv-broadcast-licenses": {
       "pol": true,
       "seen": "2026-07-17",
       "v": "v2"
