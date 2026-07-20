@@ -1415,8 +1415,18 @@
       "seen": "2026-07-20",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/20/chuck-edwards-ethics-guns-female-staff": {
+      "pol": true,
+      "seen": "2026-07-20",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/20/democrats-israel-jeffries-massie-amendment-vote": {
       "pol": true,
+      "seen": "2026-07-20",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/20/fda-cyclospora-taylor-farms-lettuce-false-positive": {
+      "pol": false,
       "seen": "2026-07-20",
       "v": "v2"
     },
@@ -1430,12 +1440,22 @@
       "seen": "2026-07-20",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused": {
+      "pol": false,
+      "seen": "2026-07-20",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/20/troy-jackson-maine-platner-replacement": {
       "pol": true,
       "seen": "2026-07-20",
       "v": "v2"
     },
     "https://www.axios.com/2026/07/20/trump-ai-security-agency-head-resigns": {
+      "pol": true,
+      "seen": "2026-07-20",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/20/trump-backed-nordone-enters-senate-race": {
       "pol": true,
       "seen": "2026-07-20",
       "v": "v2"
