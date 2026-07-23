@@ -1635,6 +1635,11 @@
       "seen": "2026-07-23",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/23/democrat-senate-super-pac-tv-ads": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/23/democrats-black-latino-feud-2028-primary": {
       "pol": true,
       "seen": "2026-07-23",
@@ -1645,8 +1650,18 @@
       "seen": "2026-07-23",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism": {
+      "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/23/moodys-markets-geopolitics-world": {
       "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington": {
+      "pol": true,
       "seen": "2026-07-23",
       "v": "v2"
     },
