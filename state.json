@@ -1580,6 +1580,11 @@
       "seen": "2026-07-23",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/22/mossad-director-gofman-ratcliffe-iran": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai": {
       "pol": false,
       "seen": "2026-07-23",
@@ -1587,6 +1592,11 @@
     },
     "https://www.axios.com/2026/07/22/scoop-regime-change-sells-500000-on-track-for-nonfiction-bestseller-of-26": {
       "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/22/senate-government-shutdown-democrats-republicans": {
+      "pol": true,
       "seen": "2026-07-23",
       "v": "v2"
     },
@@ -1617,6 +1627,21 @@
     },
     "https://www.axios.com/2026/07/22/warsh-fed-congress-comms": {
       "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/b-1-bomber-iran-war": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/secret-service-threat-investigations-rise": {
+      "pol": true,
       "seen": "2026-07-23",
       "v": "v2"
     },
