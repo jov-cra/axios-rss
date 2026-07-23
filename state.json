@@ -1650,6 +1650,21 @@
       "seen": "2026-07-23",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race": {
+      "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/inside-data-centers-powering-ai-boom": {
+      "pol": false,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/iran-war-powers-vote-house-republicans-trump": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral": {
       "pol": true,
       "seen": "2026-07-23",
@@ -1676,6 +1691,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/07/23/secret-service-threat-investigations-rise": {
+      "pol": true,
+      "seen": "2026-07-23",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel": {
       "pol": true,
       "seen": "2026-07-23",
       "v": "v2"
