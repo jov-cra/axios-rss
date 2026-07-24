@@ -1750,12 +1750,27 @@
       "seen": "2026-07-24",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/24/ai-safety-security-testing-hugging-face": {
+      "pol": false,
+      "seen": "2026-07-24",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/24/choke-point-oil-strait-economy": {
       "pol": false,
       "seen": "2026-07-24",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/24/drones-energy-security-prices-iran-ukraine": {
+      "pol": true,
+      "seen": "2026-07-24",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/24/gop-senate-darline-graham-election": {
+      "pol": true,
+      "seen": "2026-07-24",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/24/trump-netanyahu-white-house-iran": {
       "pol": true,
       "seen": "2026-07-24",
       "v": "v2"
