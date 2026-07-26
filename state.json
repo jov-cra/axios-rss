@@ -1820,6 +1820,11 @@
       "seen": "2026-07-26",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/26/hormuz-bombing-pause-trump-iran": {
+      "pol": true,
+      "seen": "2026-07-26",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days": {
       "pol": true,
       "seen": "2026-07-26",
@@ -1832,6 +1837,11 @@
     },
     "https://www.axios.com/2026/07/26/trump-zelensky-white-house-maga-ukraine": {
       "pol": true,
+      "seen": "2026-07-26",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption": {
+      "pol": false,
       "seen": "2026-07-26",
       "v": "v2"
     },
