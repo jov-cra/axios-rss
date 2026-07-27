@@ -1860,8 +1860,18 @@
       "seen": "2026-07-27",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/27/2028-democratic-presidential-power-rankings": {
+      "pol": true,
+      "seen": "2026-07-27",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning": {
       "pol": false,
+      "seen": "2026-07-27",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/27/trump-economy-polling-democrats-midterms": {
+      "pol": true,
       "seen": "2026-07-27",
       "v": "v2"
     },
