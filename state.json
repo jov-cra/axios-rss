@@ -1950,6 +1950,11 @@
       "seen": "2026-07-29",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/28/save-act-iran-war-farm-aid-republicans-trump": {
+      "pol": true,
+      "seen": "2026-07-29",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault": {
       "pol": true,
       "seen": "2026-07-29",
@@ -1982,6 +1987,21 @@
     },
     "https://www.axios.com/2026/07/28/us-blood-supply-health-red-cross-donate": {
       "pol": false,
+      "seen": "2026-07-29",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/29/openai-hugging-face-modal-cyber-benchmark": {
+      "pol": false,
+      "seen": "2026-07-29",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/29/republicans-midterm-convention-dallas-john-thune-mike-johnson-trump": {
+      "pol": true,
+      "seen": "2026-07-29",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/29/senate-russia-sanctions-lindsey-graham": {
+      "pol": true,
       "seen": "2026-07-29",
       "v": "v2"
     },
