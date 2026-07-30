@@ -2090,8 +2090,18 @@
       "seen": "2026-07-30",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-citadel": {
+      "pol": false,
+      "seen": "2026-07-30",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/30/ai-safety-slowdown-anthropic-openai": {
       "pol": false,
+      "seen": "2026-07-30",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer": {
+      "pol": true,
       "seen": "2026-07-30",
       "v": "v2"
     },
@@ -2101,6 +2111,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/07/30/election-integrity-fears-november-midterms-poll": {
+      "pol": true,
+      "seen": "2026-07-30",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace": {
       "pol": true,
       "seen": "2026-07-30",
       "v": "v2"
