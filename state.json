@@ -2100,6 +2100,11 @@
       "seen": "2026-07-31",
       "v": "v2"
     },
+    "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing": {
+      "pol": false,
+      "seen": "2026-07-31",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/07/30/bessent-xi-china-visit-trade-greer": {
       "pol": true,
       "seen": "2026-07-31",
@@ -2141,6 +2146,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn": {
+      "pol": true,
+      "seen": "2026-07-31",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/07/30/trump-senate-republicans-midterms-save-act": {
       "pol": true,
       "seen": "2026-07-31",
       "v": "v2"
