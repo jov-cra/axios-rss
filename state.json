@@ -2260,6 +2260,16 @@
       "seen": "2026-08-03",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/03/chuck-edwards-house-ethics-sexual-harassment": {
+      "pol": true,
+      "seen": "2026-08-03",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/03/cyclospora-outbreak-deaths-illness-symptoms": {
+      "pol": false,
+      "seen": "2026-08-03",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/03/democrats-leader-2028-president-aoc-bernie-sanders": {
       "pol": true,
       "seen": "2026-08-03",
@@ -2302,6 +2312,11 @@
     },
     "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors": {
       "pol": true,
+      "seen": "2026-08-03",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/03/yen-japan-treasury-bessent": {
+      "pol": false,
       "seen": "2026-08-03",
       "v": "v2"
     },
