@@ -2330,13 +2330,33 @@
       "seen": "2026-08-04",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/04/college-ai-use-kogod-american-university": {
+      "pol": false,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/04/max-miller-jim-renacci-ohio-trump-republicans": {
+      "pol": true,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/04/ohio-gop-mess-2026-elections": {
+      "pol": true,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/04/poll-talarico-has-slim-lead-over-paxton-in-texas-senate-race": {
       "pol": true,
       "seen": "2026-08-04",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house": {
       "pol": true,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/04/trump-truth-social-feed-trades": {
+      "pol": false,
       "seen": "2026-08-04",
       "v": "v2"
     },
