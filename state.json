@@ -2340,6 +2340,11 @@
       "seen": "2026-08-04",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/04/max-miller-ethics-probe-allegations": {
+      "pol": true,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/04/max-miller-jim-renacci-ohio-trump-republicans": {
       "pol": true,
       "seen": "2026-08-04",
@@ -2355,12 +2360,22 @@
       "seen": "2026-08-04",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement": {
+      "pol": false,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/04/trump-max-miller-moreno-election-house": {
       "pol": true,
       "seen": "2026-08-04",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/04/trump-truth-social-feed-trades": {
+      "pol": false,
+      "seen": "2026-08-04",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps": {
       "pol": false,
       "seen": "2026-08-04",
       "v": "v2"
