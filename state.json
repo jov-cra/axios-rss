@@ -2415,8 +2415,33 @@
       "seen": "2026-08-05",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/05/2026-midterms-democrats-map-trump-districts": {
+      "pol": true,
+      "seen": "2026-08-05",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028": {
+      "pol": true,
+      "seen": "2026-08-05",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/05/ai-stocks-sp-500-high": {
+      "pol": false,
+      "seen": "2026-08-05",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment": {
       "pol": true,
+      "seen": "2026-08-05",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/05/fauci-scientists-government-health": {
+      "pol": true,
+      "seen": "2026-08-05",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/05/gdp-growth-trump-golden-age-predictions": {
+      "pol": false,
       "seen": "2026-08-05",
       "v": "v2"
     },
