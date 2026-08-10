@@ -2705,6 +2705,11 @@
       "seen": "2026-08-10",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/10/federal-reserve-kevin-warsh-doug-mcmillon-walmart": {
+      "pol": false,
+      "seen": "2026-08-10",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/10/kevin-warsh-fed-economy-rates-ai": {
       "pol": false,
       "seen": "2026-08-10",
@@ -2712,6 +2717,11 @@
     },
     "https://www.axios.com/2026/08/10/sanders-ai-development-pause": {
       "pol": true,
+      "seen": "2026-08-10",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta": {
+      "pol": false,
       "seen": "2026-08-10",
       "v": "v2"
     },
