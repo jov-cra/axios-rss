@@ -2840,6 +2840,11 @@
       "seen": "2026-08-13",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/12/ai-boom-goldman-sachs": {
+      "pol": false,
+      "seen": "2026-08-13",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings": {
       "pol": false,
       "seen": "2026-08-13",
@@ -2851,6 +2856,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028": {
+      "pol": true,
+      "seen": "2026-08-13",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders": {
       "pol": true,
       "seen": "2026-08-13",
       "v": "v2"
@@ -2882,6 +2892,11 @@
     },
     "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press": {
       "pol": true,
+      "seen": "2026-08-13",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/12/trumps-ballroom-costs-are-rising-what-we-know-about-the-secret-underground-bunker": {
+      "pol": false,
       "seen": "2026-08-13",
       "v": "v2"
     },
