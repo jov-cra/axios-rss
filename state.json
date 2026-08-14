@@ -2975,8 +2975,18 @@
       "seen": "2026-08-14",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom": {
+      "pol": false,
+      "seen": "2026-08-14",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/14/andy-baker-national-security-needham-sims": {
       "pol": true,
+      "seen": "2026-08-14",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/14/college-dorm-decor-economy": {
+      "pol": false,
       "seen": "2026-08-14",
       "v": "v2"
     },
@@ -3016,6 +3026,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/trump-netanyahu-israel-election-endorsement": {
+      "pol": true,
+      "seen": "2026-08-14",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east": {
       "pol": true,
       "seen": "2026-08-14",
       "v": "v2"
