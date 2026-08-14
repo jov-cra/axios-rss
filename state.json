@@ -2980,6 +2980,11 @@
       "seen": "2026-08-14",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/14/consumer-sentiment-republicans": {
+      "pol": false,
+      "seen": "2026-08-14",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/14/data-center-backlash-fossil-fuel-protests": {
       "pol": true,
       "seen": "2026-08-14",
@@ -3001,6 +3006,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo": {
+      "pol": false,
+      "seen": "2026-08-14",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup": {
       "pol": false,
       "seen": "2026-08-14",
       "v": "v2"
