@@ -1,50 +1,5 @@
 {
   "verdict": {
-    "https://www.axios.com/2026/06/25/china-glm-52-open-source-hackers": {
-      "pol": false,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/iran-ship-attacked-strait-hormuz-un-sailors-evacuation-paused": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/mamdani-left-democrats-nyc-jeffries-centrists": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/mike-johnson-trump-save-america-act": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/supreme-court-hawaii-gun-law-ruling-states": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/supreme-court-trump-asylum-border": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/25/trump-klomp-deputy-health-secretary": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/26/apple-microsoft-prices-ai": {
-      "pol": false,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
     "https://www.axios.com/2026/06/26/china-ai-us-alliance": {
       "pol": true,
       "seen": "2026-07-07",
@@ -53,16 +8,6 @@
     "https://www.axios.com/2026/06/26/cori-bush-hakeem-jeffries-speaker-2027-vote": {
       "pol": true,
       "seen": "2026-07-08",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order": {
-      "pol": true,
-      "seen": "2026-07-06",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/26/europe-heat-wave-deaths-record-temperature-uk-italy-france": {
-      "pol": false,
-      "seen": "2026-07-06",
       "v": "v2"
     },
     "https://www.axios.com/2026/06/26/fda-finalists-white-house-trump-makary": {
@@ -93,11 +38,6 @@
     "https://www.axios.com/2026/06/26/trump-senate-republicans-blind-loyalty": {
       "pol": true,
       "seen": "2026-07-07",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/06/26/trump-voter-fraud-courts-congress-save-act": {
-      "pol": true,
-      "seen": "2026-07-06",
       "v": "v2"
     },
     "https://www.axios.com/2026/06/26/us-strikes-iran-strait-hormuz-ships": {
@@ -2667,12 +2607,12 @@
     },
     "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/11/michigan-senate-abdul-el-sayed-gop-super-pac": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting": {
@@ -2687,7 +2627,7 @@
     },
     "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes": {
@@ -2697,222 +2637,222 @@
     },
     "https://www.axios.com/2026/08/11/trump-mail-in-voting-executive-order-us-postal-service": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/ai-boom-goldman-sachs": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/aoc-democratic-socialists-2028": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/congress-august-recesss-campaign-trail-midterms-bernie-sanders": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/diesel-prices-iran-russia-ukraine": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/john-larson-luke-bronin-connecticut-primary": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/mike-lawler-2026-midterms-new-york-democrats": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/south-carolina-gop-senate-graham-primary-runoff": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/trumps-ballroom-costs-are-rising-what-we-know-about-the-secret-underground-bunker": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/wisconsin-democratic-governor-primary-hong-crowley": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/trump-white-house-projects-cost": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/13/youth-poll-thumbs-down-on-everything": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/ai-scrambles-political-map": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/andy-baker-national-security-needham-sims": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/biological-threats-ai-lab-research": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/college-dorm-decor-economy": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/consumer-sentiment-republicans": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/data-center-backlash-fossil-fuel-protests": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/gop-progressive-target-flanagan-minnesota": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/majority-minority-rural-america-black-latino": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/trump-netanyahu-israel-election-endorsement": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/15/college-major-ai-skills-job-search": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei": {
@@ -2922,257 +2862,257 @@
     },
     "https://www.axios.com/2026/08/16/aoc-walk-back-positions-2028": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/democratic-establishment-socialism-third-way-2028": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/drug-prices-medicare-trump": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/ethics-investigating-jimmy-gomez-sexual-misconduct": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/kindergarten-vaccine-rates-fall": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/meetup-dating-gen-z-loneliness": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/supreme-court-rejects-trump-e-jean-carroll-verdict": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-construction-paused": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/ai-women-jobs-hiring": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/democrats-republicans-midterms-political-shenanigans": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/democrats-social-media-ossoff-el-sayed": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/fbi-violent-crime-drop-2025": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/florida-weird-primary-election-2026": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/israel-syria-turkey-strike-military-buildup": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/syria-nuclear-reactors-iaea": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/trum-tps-protections-program-uncertain-future": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/trump-south-korea-allies-iran-war": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/18/young-adults-ai-job-loss": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/extreme-heat-electric-grid-utilities-demand": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/florida-cory-mills-republicans-primary-midterms": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/iran-war-trump-oman-aircraft-carriers": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/moderna-merck-mrna-cancer-vaccine": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/nasa-swift-boost-mission-canceled-link": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/ossoff-democrats-appetite-going-low": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/syria-foreign-minister-israel-bombing-airbase": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/trump-canada-tariffs-50-percent-postponed": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/19/trump-profits-polling-dems-anti-corruption-message": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/data-center-uproar-2026-midterms": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/dsa-impeachment-trump-vindman-nixon-democrats": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/health-care-costs-employers-rising": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/markwayne-mullin-dhs-favors": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/us-40-trillion-dollars-national-debt-costs-interests": {
       "pol": false,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/2026/08/20/vance-young-donors-fundraiser": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/local/denver/2026/07/01/colorado-governor-democratic-primary-phil-weiser": {
@@ -3202,7 +3142,7 @@
     },
     "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/local/twin-cities/2026/07/23/vance-boelter-sentenced-life-hortman-assasinations": {
@@ -3212,7 +3152,7 @@
     },
     "https://www.axios.com/local/twin-cities/2026/08/12/klobuchar-minnesota-democratic-primary-governor": {
       "pol": true,
-      "seen": "2026-08-20",
+      "seen": "2026-08-21",
       "v": "v2"
     },
     "https://www.axios.com/local/washington-dc/2026/06/30/trump-july-4-speech-fireworks-show-dc-world-record": {
