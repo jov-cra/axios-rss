@@ -3080,8 +3080,18 @@
       "seen": "2026-08-26",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/26/hakeem-jeffries-trump-impeachment-dems-win-house": {
+      "pol": true,
+      "seen": "2026-08-26",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/26/jeffries-kushner-meeting-reaction-democrats-left": {
       "pol": true,
+      "seen": "2026-08-26",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/26/stanley-druckenmiller-ai-writing-wsj-op-ed": {
+      "pol": false,
       "seen": "2026-08-26",
       "v": "v2"
     },
