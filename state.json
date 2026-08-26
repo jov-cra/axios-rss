@@ -3075,6 +3075,11 @@
       "seen": "2026-08-26",
       "v": "v2"
     },
+    "https://www.axios.com/2026/08/26/antares-nuclear-power-army-janus-bragg": {
+      "pol": false,
+      "seen": "2026-08-26",
+      "v": "v2"
+    },
     "https://www.axios.com/2026/08/26/darline-graham-south-carolina-republican-senate-results": {
       "pol": true,
       "seen": "2026-08-26",
@@ -3091,6 +3096,11 @@
       "v": "v2"
     },
     "https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook": {
+      "pol": false,
+      "seen": "2026-08-26",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/26/openai-hugging-face-technical-report-ai-hack": {
       "pol": false,
       "seen": "2026-08-26",
       "v": "v2"
@@ -3117,6 +3127,11 @@
     },
     "https://www.axios.com/2026/08/26/tv-ad-rates-republicans-democrats-court-ruling": {
       "pol": true,
+      "seen": "2026-08-26",
+      "v": "v2"
+    },
+    "https://www.axios.com/2026/08/26/waymo-ai-shortcut-self-driving": {
+      "pol": false,
       "seen": "2026-08-26",
       "v": "v2"
     },
