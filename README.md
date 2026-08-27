@@ -46,3 +46,11 @@ pip install -r requirements.txt
 python tests/test_filter.py
 ```
 Alles offline (Klassifikator gemockt): Feed-Zerlegung, Politik-Drop, Head-Anpassung, „ohne Key nichts droppen" und byte-identische Ausgabe (kein Commit-Churn).
+
+## Härtung 27.08.2026
+
+- **`temperature=0`** im Klassifikator. Das Urteil wird pro `guid` **dauerhaft** gecacht — mit der Default-Temperatur konnte derselbe Stoff zweimal gegensätzlich beurteilt und der Münzwurf dann eingefroren werden.
+- **Strikte Antwort-Validierung.** Alles außer `yes`/`no` wirft jetzt, statt still als „behalten" im Cache zu landen. Ein API-Glitch wird im nächsten Lauf erneut versucht, nicht für immer festgeschrieben.
+- **Chart landet in beiden Bodies.** Der injizierte `<img>` geht in `content:encoded` **und** in `<description>` — Readwise rendert `<description>`, Tapestry `content:encoded`. Vorher sah die Hälfte der Reader den Chart nicht.
+- **Prompt `v3`:** schärfere Grenze „Politiker-Handeln vs. Business-Framing". Politiker-Memes, Kosten-/Verbraucherstorys und wirtschaftliche Folgen von Zöllen/Handel sind **keine** Politik; nur der politische Kampf um die Policy ist es.
+- **Roter Lauf macht sich bemerkbar:** der Workflow legt bei `failure()` ein Issue an (bzw. kommentiert das offene). Fail-closed heißt sonst: der alte Feed wird weiter ausgeliefert und niemand merkt, dass er altert.

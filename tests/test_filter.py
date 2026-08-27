@@ -130,6 +130,88 @@ def test_inject_chart_by_description_and_strip_thumbnail():
     assert "media:thumbnail" not in af.strip_thumbnail(chart)
 
 
+# --------------------------------------------------------------------------- #
+# Chart injection reaches BOTH bodies (regression, 27.08.2026)
+# --------------------------------------------------------------------------- #
+CHART_ITEM = (
+    "<item><title>Chart story</title>"
+    "<guid>https://example.com/a</guid>"
+    "<description>&lt;p&gt;Body text&lt;/p&gt;</description>"
+    "<content:encoded><![CDATA[<p>Body text</p>]]></content:encoded>"
+    '<media:content url="https://datawrapper.dwcdn.net/abcde/fallback.png" medium="image">'
+    "<media:description>Data: X; Chart: Y/Axios Visuals</media:description>"
+    "</media:content></item>"
+)
+
+
+def test_inject_chart_reaches_description_and_content_encoded():
+    """Readers render one body or the other — Readwise uses <description>,
+    Tapestry <content:encoded>. Injecting into only one hides the chart from
+    half of them, which is exactly what shipped until 27.08.2026."""
+    af._hires = lambda url: url          # no network in tests
+    out = af.inject_chart(CHART_ITEM)
+    assert '<p><img src="https://datawrapper.dwcdn.net/abcde/fallback.png" alt="Chart"/></p>' in out
+    assert "&lt;p&gt;&lt;img src=" in out and "alt=&quot;Chart&quot;" not in out
+    assert "alt=\"Chart\"/&gt;" in out          # escaped copy inside <description>
+    assert "<media:content" not in out           # enclosure removed -> chart shows once
+
+
+def test_inject_chart_is_idempotent():
+    af._hires = lambda url: url
+    once = af.inject_chart(CHART_ITEM)
+    assert af.inject_chart(once) == once
+
+
+def test_inject_chart_leaves_photos_alone():
+    photo = CHART_ITEM.replace("https://datawrapper.dwcdn.net/abcde/fallback.png",
+                               "https://images.axios.com/x.jpg").replace(
+                               "Data: X; Chart: Y/Axios Visuals", "Photo: Someone/Getty")
+    assert af.inject_chart(photo) == photo
+
+
+# --------------------------------------------------------------------------- #
+# Classifier contract (regression, 27.08.2026)
+# --------------------------------------------------------------------------- #
+class _Block:
+    def __init__(self, text): self.text = text
+
+
+class _FakeMessages:
+    def __init__(self, reply): self.reply, self.kwargs = reply, None
+    def create(self, **kwargs):
+        self.kwargs = kwargs
+        return type("M", (), {"content": [_Block(self.reply)]})()
+
+
+class _FakeClient:
+    def __init__(self, reply): self.messages = _FakeMessages(reply)
+
+
+# Captured at import time: other tests in this file swap af.classify_politics
+# for a stub via _install_fakes(), so the real function has to be held onto here.
+_REAL_CLASSIFY = af.classify_politics
+
+
+def test_classify_is_deterministic():
+    """The verdict is cached forever, so a coin flip would be frozen for good."""
+    c = _FakeClient("no")
+    _REAL_CLASSIFY(c, "m", "t", "d")
+    assert c.messages.kwargs["temperature"] == 0
+
+
+def test_classify_accepts_yes_and_no():
+    assert _REAL_CLASSIFY(_FakeClient("yes"), "m", "t", "d") is True
+    assert _REAL_CLASSIFY(_FakeClient("No."), "m", "t", "d") is False
+
+
+def test_classify_rejects_anything_else():
+    """An empty or garbled reply used to become a silent, permanent 'keep'."""
+    import pytest
+    for bad in ("", "maybe", "I think yes"):
+        with pytest.raises(ValueError):
+            _REAL_CLASSIFY(_FakeClient(bad), "m", "t", "d")
+
+
 if __name__ == "__main__":
     import traceback
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(v)]

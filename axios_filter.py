@@ -48,7 +48,7 @@ GUID_RE = re.compile(r"<guid\b[^>]*>(.*?)</guid>", re.DOTALL)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL)
 DESC_RE = re.compile(r"<description>(.*?)</description>", re.DOTALL)
 
-PROMPT_VERSION = "v2"   # bump to force re-classification of cached verdicts
+PROMPT_VERSION = "v3"   # bump to force re-classification of cached verdicts
 PROMPT = (
     "You classify Axios news items. Answer whether the item is PRIMARILY about "
     "politics, government, policy, or foreign affairs.\n\n"
@@ -57,6 +57,12 @@ PROMPT = (
     "and SCOTUS rulings; political appointments; partisan policy battles; a political "
     "figure's political conduct; AND world / foreign affairs — wars, armed conflicts, "
     "diplomacy, foreign governments and leaders, international relations, geopolitics.\n\n"
+    "An item about a politician counts as politics ONLY when the news is a political act "
+    "or fight — campaigning, legislating, governing, appointments, court battles. A "
+    "politician's personal life, memes, celebrity moments, or spending / cost stories "
+    "framed as business or consumer news: answer no. Economic effects of tariffs, trade, "
+    "or government policy on prices, companies or consumers: answer no — only the "
+    "political fight over the policy is yes.\n\n"
     "Do NOT count as politics (no): business, companies, markets, the economy, the "
     "Federal Reserve and interest rates, corporate or antitrust / regulatory news framed "
     "as a business story, technology, science, health and medicine, climate and energy as "
@@ -97,13 +103,23 @@ def make_client(api_key: str):
 
 
 def classify_politics(client, model: str, title: str, desc: str) -> bool:
+    """One yes/no verdict. temperature=0 because the verdict is CACHED FOREVER:
+    with the default temperature two near-identical items (or the same story
+    filed twice) could get opposite verdicts, and the coin flip would then be
+    frozen in state.json. Anything that is not exactly 'yes'/'no' RAISES instead
+    of silently becoming a keep — an empty or garbled reply must be retried next
+    run, not cached as a permanent verdict."""
     msg = client.messages.create(
         model=model,
         max_tokens=5,
+        temperature=0,
         messages=[{"role": "user", "content": PROMPT.format(title=title, desc=desc)}],
     )
     out = "".join(getattr(b, "text", "") for b in msg.content).strip().lower()
-    return out.startswith("yes")
+    out = out.rstrip(".!,").strip()
+    if out not in ("yes", "no"):
+        raise ValueError(f"classifier returned {out!r}, expected 'yes' or 'no'")
+    return out == "yes"
 
 
 def item_text(block: str) -> tuple[str, str]:
@@ -195,23 +211,48 @@ def _drop_media_content(block: str) -> str:
     return MEDIA_CONTENT_RE.sub("", block, count=1)
 
 
+DESC_BLOCK_RE = re.compile(r"<description>(.*?)</description>", re.DOTALL)
+
+
+def _img_html(img: str) -> str:
+    """The <img> as raw HTML, with the URL escaped for an HTML attribute."""
+    return f'<p><img src="{escape(img, {chr(34): "&quot;"})}" alt="Chart"/></p>'
+
+
 def inject_chart(block: str) -> str:
     """Charts live in <media:content> (a static PNG), not inline in the body, so
     readers that ignore <media:content> (e.g. Tapestry) don't show them. If the
-    item's media is a chart, prepend a crisp <img> to content:encoded AND drop the
+    item's media is a chart, prepend a crisp <img> to the body AND drop the
     <media:content> enclosure so the chart appears exactly once, at the top.
+
+    The <img> goes into BOTH bodies Axios ships: <content:encoded> (CDATA, raw
+    HTML) and <description> (the same HTML, entity-escaped). Readers pick one or
+    the other — Readwise and most others render <description> — so injecting into
+    only one of them hides the chart from half the readers. The description copy
+    is escaped a second time on purpose: the reader unescapes it back to HTML.
+
     Photos are left untouched. Idempotent."""
     url, desc = _media_content(block)
     if not url or not _is_chart(url, desc):
         return block
-    ce = re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]></content:encoded>", block, re.DOTALL)
-    if not ce:
-        return block
     img = _hires(url)
-    if img in ce.group(1) or url in ce.group(1):
-        return _drop_media_content(block)   # already inline -> just remove the duplicate enclosure
-    new_ce = f'<content:encoded><![CDATA[<p><img src="{img}" alt="Chart"/></p>{ce.group(1)}]]></content:encoded>'
-    block = block[:ce.start()] + new_ce + block[ce.end():]
+    snippet = _img_html(img)
+    touched = False
+
+    ce = re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]></content:encoded>", block, re.DOTALL)
+    if ce and img not in ce.group(1) and url not in ce.group(1):
+        new_ce = f'<content:encoded><![CDATA[{snippet}{ce.group(1)}]]></content:encoded>'
+        block = block[:ce.start()] + new_ce + block[ce.end():]
+        touched = True
+
+    db = DESC_BLOCK_RE.search(block)
+    if db and img not in db.group(1) and url not in db.group(1):
+        new_db = f"<description>{escape(snippet)}{db.group(1)}</description>"
+        block = block[:db.start()] + new_db + block[db.end():]
+        touched = True
+
+    if not (touched or ce or db):
+        return block                        # nothing to inject into; keep as-is
     return _drop_media_content(block)
 
 

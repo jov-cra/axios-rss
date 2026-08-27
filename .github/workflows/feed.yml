@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: axios-feed
@@ -38,4 +39,21 @@ jobs:
           else
             git commit -m "Update filtered Axios feed [skip ci]"
             git push
+          fi
+
+      - name: Open an issue when the build fails
+        # A red scheduled run is otherwise invisible: the last good feed keeps
+        # being served, so the reader looks healthy while the feed goes stale.
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Feed build is failing"
+          num=$(gh issue list --state open --search "$title in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --body "Failed again: $RUN_URL"
+          else
+            gh issue create --title "$title" \
+              --body "The scheduled feed build failed and left the previous feed.xml in place (fail-closed), so the published feed is now going stale. Run: $RUN_URL"
           fi
