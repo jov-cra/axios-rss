@@ -177,14 +177,18 @@ class _Block:
 
 
 class _FakeMessages:
-    def __init__(self, reply): self.reply, self.kwargs = reply, None
+    """Replies are consumed in order; the last one repeats."""
+    def __init__(self, *replies):
+        self.replies, self.calls, self.kwargs = list(replies), 0, None
     def create(self, **kwargs):
         self.kwargs = kwargs
-        return type("M", (), {"content": [_Block(self.reply)]})()
+        reply = self.replies[min(self.calls, len(self.replies) - 1)]
+        self.calls += 1
+        return type("M", (), {"content": [_Block(reply)]})()
 
 
 class _FakeClient:
-    def __init__(self, reply): self.messages = _FakeMessages(reply)
+    def __init__(self, *replies): self.messages = _FakeMessages(*replies)
 
 
 # Captured at import time: other tests in this file swap af.classify_politics
@@ -192,16 +196,39 @@ class _FakeClient:
 _REAL_CLASSIFY = af.classify_politics
 
 
-def test_classify_is_deterministic():
-    """The verdict is cached forever, so a coin flip would be frozen for good."""
+def test_keep_is_final_after_one_answer():
+    """A keep costs one call; the drop is the expensive-to-be-wrong direction."""
     c = _FakeClient("no")
-    _REAL_CLASSIFY(c, "m", "t", "d")
-    assert c.messages.kwargs["temperature"] == 0
+    assert _REAL_CLASSIFY(c, "m", "t", "d") is False
+    assert c.messages.calls == 1
+
+
+def test_drop_has_to_be_confirmed():
+    """The verdict is cached forever and the API no longer exposes temperature,
+    so a single sampling flip would be frozen for good. A drop is asked twice."""
+    c = _FakeClient("yes", "yes")
+    assert _REAL_CLASSIFY(c, "m", "t", "d") is True
+    assert c.messages.calls == 2
+
+
+def test_unconfirmed_drop_becomes_a_keep():
+    """Disagreement resolves towards keeping — rather let a political item slip
+    through than over-filter."""
+    c = _FakeClient("yes", "no")
+    assert _REAL_CLASSIFY(c, "m", "t", "d") is False
 
 
 def test_classify_accepts_yes_and_no():
-    assert _REAL_CLASSIFY(_FakeClient("yes"), "m", "t", "d") is True
+    assert _REAL_CLASSIFY(_FakeClient("Yes", "yes"), "m", "t", "d") is True
     assert _REAL_CLASSIFY(_FakeClient("No."), "m", "t", "d") is False
+
+
+def test_no_sampling_parameters_are_sent():
+    """temperature / top_p / top_k were removed from the Messages API; sending
+    one raises TypeError in the SDK and takes the whole run down."""
+    c = _FakeClient("no")
+    _REAL_CLASSIFY(c, "m", "t", "d")
+    assert not {"temperature", "top_p", "top_k"} & set(c.messages.kwargs)
 
 
 def test_classify_rejects_anything_else():

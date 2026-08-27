@@ -102,17 +102,14 @@ def make_client(api_key: str):
     return anthropic.Anthropic(api_key=api_key, max_retries=4)
 
 
-def classify_politics(client, model: str, title: str, desc: str) -> bool:
-    """One yes/no verdict. temperature=0 because the verdict is CACHED FOREVER:
-    with the default temperature two near-identical items (or the same story
-    filed twice) could get opposite verdicts, and the coin flip would then be
-    frozen in state.json. Anything that is not exactly 'yes'/'no' RAISES instead
-    of silently becoming a keep — an empty or garbled reply must be retried next
-    run, not cached as a permanent verdict."""
+def _ask_politics(client, model: str, title: str, desc: str) -> bool:
+    """A single yes/no verdict. Anything that is not exactly 'yes' or 'no' RAISES
+    instead of silently becoming a keep: `"".startswith("yes")` is False, so an
+    empty or garbled reply used to be written into the cache as a permanent
+    verdict. Raising means it is retried on the next run."""
     msg = client.messages.create(
         model=model,
         max_tokens=5,
-        temperature=0,
         messages=[{"role": "user", "content": PROMPT.format(title=title, desc=desc)}],
     )
     out = "".join(getattr(b, "text", "") for b in msg.content).strip().lower()
@@ -120,6 +117,24 @@ def classify_politics(client, model: str, title: str, desc: str) -> bool:
     if out not in ("yes", "no"):
         raise ValueError(f"classifier returned {out!r}, expected 'yes' or 'no'")
     return out == "yes"
+
+
+def classify_politics(client, model: str, title: str, desc: str) -> bool:
+    """Politics verdict, asked TWICE before dropping.
+
+    The verdict is cached per guid forever, so a one-off sampling flip is frozen
+    for good — that is what put the same Cohen interview on both sides of the
+    filter. The API no longer exposes temperature / top_p / top_k, so the sampling
+    cannot be pinned; asking again is the remaining lever.
+
+    Asymmetric on purpose, and it matches the stated preference (rather let a
+    political item slip through than over-filter): a KEEP is final after one
+    answer, a DROP has to be confirmed. Borderline items therefore drift towards
+    keep instead of towards a coin flip. Cost stays in the cents: only items that
+    come back 'yes' are asked a second time, and only once per prompt version."""
+    if not _ask_politics(client, model, title, desc):
+        return False
+    return _ask_politics(client, model, title, desc)
 
 
 def item_text(block: str) -> tuple[str, str]:
