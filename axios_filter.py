@@ -48,7 +48,7 @@ GUID_RE = re.compile(r"<guid\b[^>]*>(.*?)</guid>", re.DOTALL)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL)
 DESC_RE = re.compile(r"<description>(.*?)</description>", re.DOTALL)
 
-PROMPT_VERSION = "v3"   # bump to force re-classification of cached verdicts
+PROMPT_VERSION = "v4"   # bump to force re-classification of cached verdicts
 PROMPT = (
     "You classify Axios news items. Answer whether the item is PRIMARILY about "
     "politics, government, policy, or foreign affairs.\n\n"
@@ -58,11 +58,13 @@ PROMPT = (
     "figure's political conduct; AND world / foreign affairs — wars, armed conflicts, "
     "diplomacy, foreign governments and leaders, international relations, geopolitics.\n\n"
     "An item about a politician counts as politics ONLY when the news is a political act "
-    "or fight — campaigning, legislating, governing, appointments, court battles. A "
-    "politician's personal life, memes, celebrity moments, or spending / cost stories "
-    "framed as business or consumer news: answer no. Economic effects of tariffs, trade, "
-    "or government policy on prices, companies or consumers: answer no — only the "
-    "political fight over the policy is yes.\n\n"
+    "or fight — campaigning, legislating, governing, appointments, court battles. How a "
+    "party, campaign or politician messages, brands itself or courts voters IS politics, "
+    "even when the vehicle is social media, memes or celebrity. But a politician's private "
+    "life and purely trivial personal items — a birthday gift, a viral photo, a feud made "
+    "up — are not. Spending / cost stories framed as business or consumer news: answer no. "
+    "Economic effects of tariffs, trade, or government policy on prices, companies or "
+    "consumers: answer no — only the political fight over the policy is yes.\n\n"
     "Do NOT count as politics (no): business, companies, markets, the economy, the "
     "Federal Reserve and interest rates, corporate or antitrust / regulatory news framed "
     "as a business story, technology, science, health and medicine, climate and energy as "
