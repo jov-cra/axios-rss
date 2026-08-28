@@ -3145,6 +3145,16 @@
       "seen": "2026-08-28",
       "v": "v4"
     },
+    "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots": {
+      "pol": true,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/eu-ai-act-gets-real": {
+      "pol": false,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist": {
       "pol": true,
       "seen": "2026-08-28",
@@ -3152,6 +3162,31 @@
     },
     "https://www.axios.com/2026/08/28/midterms-2026-democrats-republicans-ad-rates-tv": {
       "pol": true,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups": {
+      "pol": false,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/trump-hush-money-conviction-appeal": {
+      "pol": true,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/trump-iran-hormuz-war-oil": {
+      "pol": true,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/trump-iran-war-end-plan-military": {
+      "pol": true,
+      "seen": "2026-08-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/08/28/us-dollar-stablecoins-usdc": {
+      "pol": false,
       "seen": "2026-08-28",
       "v": "v4"
     },
