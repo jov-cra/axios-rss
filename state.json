@@ -2995,6 +2995,11 @@
       "seen": "2026-09-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/01/ai-data-center-constructon-spending": {
+      "pol": false,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions": {
       "pol": false,
       "seen": "2026-09-01",
@@ -3025,12 +3030,22 @@
       "seen": "2026-09-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/01/interest-rates-finance-bessent": {
+      "pol": false,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/01/jd-vance-antisemitisim-speech-las-vegas": {
       "pol": true,
       "seen": "2026-09-01",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/01/naacp-black-athletes-boycott-nil": {
+      "pol": false,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security": {
       "pol": false,
       "seen": "2026-09-01",
       "v": "v4"
@@ -3046,6 +3061,11 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/09/01/trump-venezuela-oil-baron": {
+      "pol": true,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/01/us-officials-defend-deal-venezuelan-oil-baron": {
       "pol": true,
       "seen": "2026-09-01",
       "v": "v4"
