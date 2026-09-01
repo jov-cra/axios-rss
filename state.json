@@ -3005,7 +3005,17 @@
       "seen": "2026-09-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices": {
+      "pol": false,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth": {
+      "pol": true,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/01/democrats-house-socialism-republicans-save-act": {
       "pol": true,
       "seen": "2026-09-01",
       "v": "v4"
