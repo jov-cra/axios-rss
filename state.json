@@ -3010,6 +3010,11 @@
       "seen": "2026-09-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america": {
+      "pol": false,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices": {
       "pol": false,
       "seen": "2026-09-01",
@@ -3020,7 +3025,17 @@
       "seen": "2026-09-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff": {
+      "pol": true,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/01/democrats-house-socialism-republicans-save-act": {
+      "pol": true,
+      "seen": "2026-09-01",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote": {
       "pol": true,
       "seen": "2026-09-01",
       "v": "v4"
