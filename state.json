@@ -3070,7 +3070,42 @@
       "seen": "2026-09-02",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/02/ai-wildfire-response-help": {
+      "pol": false,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/border-wall-bulldoze-local-concerns": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/death-penalty-executions-surging-florida": {
+      "pol": false,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/golden-perez-jeffries-house-democrats-punishment": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/hegseth-defense-pentagon-driscoll-iran-war": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo": {
+      "pol": false,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/trump-ai-g20-innovation-summit": {
       "pol": true,
       "seen": "2026-09-02",
       "v": "v4"
