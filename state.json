@@ -3090,6 +3090,11 @@
       "seen": "2026-09-02",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/02/government-corruption-gallup-poll-2026-trump": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/02/hegseth-defense-pentagon-driscoll-iran-war": {
       "pol": true,
       "seen": "2026-09-02",
@@ -3100,12 +3105,22 @@
       "seen": "2026-09-02",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/02/lutnick-anthropic-trump": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo": {
       "pol": false,
       "seen": "2026-09-02",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/02/trump-ai-g20-innovation-summit": {
+      "pol": true,
+      "seen": "2026-09-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/02/trump-lake-america-canada-tariffs-poll": {
       "pol": true,
       "seen": "2026-09-02",
       "v": "v4"
