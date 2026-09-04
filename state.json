@@ -3125,6 +3125,11 @@
       "seen": "2026-09-04",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/04/gas-prices-labor-day-summer-sendoff": {
+      "pol": false,
+      "seen": "2026-09-04",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation": {
       "pol": true,
       "seen": "2026-09-04",
@@ -3132,6 +3137,11 @@
     },
     "https://www.axios.com/2026/09/04/jobs-report-labor-fed-rates": {
       "pol": false,
+      "seen": "2026-09-04",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy": {
+      "pol": true,
       "seen": "2026-09-04",
       "v": "v4"
     },
