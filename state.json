@@ -2975,7 +2975,37 @@
       "seen": "2026-09-09",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans": {
+      "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/medicare-drug-coverage-spending-increases": {
+      "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/musk-pac-trans-senate-ads": {
+      "pol": true,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/openai-artificial-general-intelligence-safety": {
+      "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/09/trump-burnham-uk-sanctions-israel-settlements-west-bank": {
+      "pol": true,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/trump-midterms-republicans-popularity": {
+      "pol": true,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop": {
       "pol": true,
       "seen": "2026-09-09",
       "v": "v4"
