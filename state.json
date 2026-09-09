@@ -2980,8 +2980,28 @@
       "seen": "2026-09-09",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections": {
+      "pol": true,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks": {
+      "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans": {
       "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook": {
+      "pol": false,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/fetterman-video-gop-convention-trump": {
+      "pol": true,
       "seen": "2026-09-09",
       "v": "v4"
     },
@@ -3006,6 +3026,11 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/09/09/trump-germany-afd-antisemitism": {
+      "pol": true,
+      "seen": "2026-09-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/09/trump-midterm-election-mess-courts": {
       "pol": true,
       "seen": "2026-09-09",
       "v": "v4"
