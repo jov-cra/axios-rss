@@ -3025,6 +3025,11 @@
       "seen": "2026-09-10",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats": {
+      "pol": false,
+      "seen": "2026-09-10",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat": {
       "pol": false,
       "seen": "2026-09-10",
@@ -3036,6 +3041,11 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley": {
+      "pol": true,
+      "seen": "2026-09-10",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/10/trump-census-voting-maps-race-questions": {
       "pol": true,
       "seen": "2026-09-10",
       "v": "v4"
