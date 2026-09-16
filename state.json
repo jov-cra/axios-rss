@@ -2995,6 +2995,11 @@
       "seen": "2026-09-16",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/16/ai-concerns-congress-regulation": {
+      "pol": true,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo": {
       "pol": false,
       "seen": "2026-09-16",
@@ -3027,6 +3032,21 @@
     },
     "https://www.axios.com/2026/09/16/us-economy-income-census": {
       "pol": false,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/16/us-houthi-oman-to-discuss-red-sea-crisis": {
+      "pol": true,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent": {
+      "pol": true,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/16/warren-ai-pause": {
+      "pol": true,
       "seen": "2026-09-16",
       "v": "v4"
     },
