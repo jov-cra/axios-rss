@@ -2995,6 +2995,16 @@
       "seen": "2026-09-16",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo": {
+      "pol": false,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/16/eu-canada-associate-membership-carney-trump": {
+      "pol": true,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/16/girls-flag-football-fastest-growing-high-school-sport": {
       "pol": false,
       "seen": "2026-09-16",
@@ -3002,6 +3012,11 @@
     },
     "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it": {
       "pol": true,
+      "seen": "2026-09-16",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers": {
+      "pol": false,
       "seen": "2026-09-16",
       "v": "v4"
     },
