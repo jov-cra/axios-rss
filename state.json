@@ -3055,6 +3055,11 @@
       "seen": "2026-09-18",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/18/latino-voters-shift-internal-divides-deepen": {
+      "pol": true,
+      "seen": "2026-09-18",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/18/novig-sydney-sweeney-ad-backlash-women-in-sports": {
       "pol": false,
       "seen": "2026-09-18",
@@ -3062,6 +3067,16 @@
     },
     "https://www.axios.com/2026/09/18/oils-shrug-emoji-era-iran-trump-hormuz-prices": {
       "pol": false,
+      "seen": "2026-09-18",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/18/trump-ban-cnn-ms-now-politico-white-house": {
+      "pol": true,
+      "seen": "2026-09-18",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/18/usps-slow-mail-cost-cuts-performance": {
+      "pol": true,
       "seen": "2026-09-18",
       "v": "v4"
     },
