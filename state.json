@@ -1,65 +1,5 @@
 {
   "verdict": {
-    "https://www.axios.com/2026/07/24/ai-risk-bioweapons": {
-      "pol": false,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/drones-energy-security-prices-iran-ukraine": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/hormuz-us-uk-conference-iran": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/tariffs-import-taxes": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/trump-netanyahu-white-house-iran": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/24/white-house-ai-line-china": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/25/ai-family-parenting-productivity": {
-      "pol": false,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/25/food-banks-snap-cuts-obbb": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/25/maine-troy-jackson-susan-collins-platner": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/25/trump-iran-war-military-directive-strikes": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/25/trump-white-house-correspondents-dinner-whcd": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
     "https://www.axios.com/2026/07/26/democrats-america-first-trump-2028": {
       "pol": true,
       "seen": "2026-08-04",
@@ -70,16 +10,6 @@
       "seen": "2026-08-04",
       "v": "v2"
     },
-    "https://www.axios.com/2026/07/26/midterm-election-outlook-100-days": {
-      "pol": true,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit": {
-      "pol": false,
-      "seen": "2026-08-03",
-      "v": "v2"
-    },
     "https://www.axios.com/2026/07/26/south-carolina-progressives-primary-2028": {
       "pol": true,
       "seen": "2026-08-04",
@@ -88,11 +18,6 @@
     "https://www.axios.com/2026/07/26/trump-zelensky-white-house-maga-ukraine": {
       "pol": true,
       "seen": "2026-08-04",
-      "v": "v2"
-    },
-    "https://www.axios.com/2026/07/26/union-contracts-ai-workplace-disruption": {
-      "pol": false,
-      "seen": "2026-08-03",
       "v": "v2"
     },
     "https://www.axios.com/2026/07/27/2026-midterm-democrats-socialist-michigan": {
@@ -2562,7 +2487,7 @@
     },
     "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook": {
@@ -2612,7 +2537,7 @@
     },
     "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop": {
@@ -2622,482 +2547,492 @@
     },
     "https://www.axios.com/2026/09/10/ai-anthropic-warning-humanity": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/elon-musk-x-ai-community-group-chat": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/gop-sept11-midterms-democrats": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/trump-census-voting-maps-race-questions": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/trump-congress-republicans-rnc-convention-democrats": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/trump-dividend-check-5000": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/10/trump-iran-war-regrets-fox-news-dallas": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/9-11-meme-generations-history": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/911-widow-saudi-arabia-trump": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/ai-safety-debate-next": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/ai-warnings-biological-research-dangerous": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/cdc-declares-cyclospora-outbreak-over": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/diesel-6-dollars": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/republicans-trump-election-lawsuits": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/september-11-photographers-25-years": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/trump-reflecting-pool-contractor-repairs": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/11/vance-speech-gop-convention-millennials": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/jewish-security-spending-holy-days": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/12/us-world-relationships-gold-tourism": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/ai-labs-regulation-safety": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/democrats-2028-primary-native-americans": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/national-debt-interest-rates-rising": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/trump-united-ireland-north-south": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/gop-controversy-brandon-herrera-bo-french": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/how-warsh-can-avoid-a-repeat-of-julys-communications-mess": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/inside-fetterman-appearance-gop-convention": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/mitch-mcconnell-senate-republicans-capitol-vote-fall-hospital": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-dhs-voter-data-false-statements": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-immigration-benefits-lawsuit-mamdani-nyc": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-impeachment-al-green-democrats-house-vote": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trump-republicans-5000-checks-mike-johnson-midterms": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/trumps-mail-ballot-rules-blocked": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/14/uk-union-northern-ireland-scotland-wales-independence": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/chuck-edwards-ethics-complaint-sexual-harassment": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/donald-trump-jr-wedding-investigation-kremlev": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/ed-sheeran-loop-tour-macklemore-gaza-backlash": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/house-republicans-epstein-files-thomas-massie": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/landau-baal-bull-state-department-epstein": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/massie-impeach-pete-hegseth-iran-war": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/russia-sanctions-trump-tariffs-house-democrats": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-ai-doom-safety-regulation-hoax": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-dangerous-corrupt-majority-new-poll": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-impeachment-house-vote-al-green-democrats": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-kennedy-center-close-building": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-name-kennedy-center-judge-ruling": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-pollster-data-center-republicans-midterm-election": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/trump-supreme-court-justices-mail-voting": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/15/us-iran-boats-navy-drone-strait-hormuz": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/ai-concerns-congress-regulation": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/eu-canada-associate-membership-carney-trump": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/girls-flag-football-fastest-growing-high-school-sport": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/house-russia-sanctions-bill-graham": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/johnson-massie-feud-boils-over-why-are-we-taking-days-off-our-calendar": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/trump-data-census-eeoc-cdc-interference": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/trump-fed-interest-rates-lower-call": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/us-economy-income-census": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/us-houthi-oman-to-discuss-red-sea-crisis": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/warren-ai-pause": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/delcy-rodriguez-venezuela-trump-un-general-assembly": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/hasan-piker-axios-show-terrorism-america": {
       "pol": false,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/house-democrats-jeffries-clark-golden-perez-fight": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/17/house-republicans-steve-scalise-midterm-elections": {
+      "pol": true,
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/iran-war-crimes-un-mission-finds": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/kennedy-center-demolition-30-days-notice-ruling": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/republicans-immigration-trump-miami-backyard": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/rfk-vaccine-safety-anti-vaccine-gathering": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/states-ice-polls-2026-election": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/17/trump-axios-interview-iran-war": {
+      "pol": true,
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/white-house-pulls-lance-schroyer-ice-nominee": {
       "pol": true,
-      "seen": "2026-09-17",
+      "seen": "2026-09-18",
       "v": "v4"
     },
     "https://www.axios.com/local/detroit/2026/08/05/donavan-mckinney-defeats-shri-thanedar-in-michigans-13th-district-democratic-primary": {
