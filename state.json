@@ -2875,7 +2875,17 @@
       "seen": "2026-09-21",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/21/arizona-online-map-ice-agents-polls": {
+      "pol": true,
+      "seen": "2026-09-21",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/21/germany-election-results-afd-merz": {
+      "pol": true,
+      "seen": "2026-09-21",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/21/jared-golden-mike-lawler-house-democrats-reaction": {
       "pol": true,
       "seen": "2026-09-21",
       "v": "v4"
@@ -2897,6 +2907,11 @@
     },
     "https://www.axios.com/2026/09/21/trump-houthis-yemen-saudi-bin-salman": {
       "pol": true,
+      "seen": "2026-09-21",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/21/trump-mamdani-new-york-city-meeting": {
+      "pol": false,
       "seen": "2026-09-21",
       "v": "v4"
     },
