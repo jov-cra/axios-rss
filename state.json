@@ -2935,7 +2935,22 @@
       "seen": "2026-09-23",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards": {
+      "pol": false,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/23/all-in-podcast-trump-ai-safety": {
+      "pol": true,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/23/midterms-senate-georgia-kansas-south-carolina-forecast": {
+      "pol": true,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/23/pezeshkian-trump-iran-terrorists-victims": {
       "pol": true,
       "seen": "2026-09-23",
       "v": "v4"
@@ -2950,7 +2965,17 @@
       "seen": "2026-09-23",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation": {
+      "pol": true,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/23/trump-board-of-peace-gaza-reconstruction-plan": {
+      "pol": true,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/23/trump-thune-ai-regulations": {
       "pol": true,
       "seen": "2026-09-23",
       "v": "v4"
@@ -2967,6 +2992,11 @@
     },
     "https://www.axios.com/2026/09/23/uber-robotaxi-human-drivers": {
       "pol": false,
+      "seen": "2026-09-23",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/23/white-house-press-ban-access": {
+      "pol": true,
       "seen": "2026-09-23",
       "v": "v4"
     },
