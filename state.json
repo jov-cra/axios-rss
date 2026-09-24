@@ -2985,8 +2985,33 @@
       "seen": "2026-09-24",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/24/china-ai-plan-trump-xi-visit": {
+      "pol": true,
+      "seen": "2026-09-24",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access": {
+      "pol": true,
+      "seen": "2026-09-24",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/24/extreme-heat-work-schedules": {
+      "pol": false,
+      "seen": "2026-09-24",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/24/openai-agents-australia-data-breach": {
       "pol": false,
+      "seen": "2026-09-24",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/24/treasury-yields-inflation-bonds": {
+      "pol": false,
+      "seen": "2026-09-24",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei": {
+      "pol": true,
       "seen": "2026-09-24",
       "v": "v4"
     },
