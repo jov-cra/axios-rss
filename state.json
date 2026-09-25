@@ -2995,6 +2995,11 @@
       "seen": "2026-09-25",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/25/democrats-midterm-ads-2026-corruption-parties": {
+      "pol": true,
+      "seen": "2026-09-25",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/25/gop-october-midterms-key-moment": {
       "pol": true,
       "seen": "2026-09-25",
@@ -3012,6 +3017,16 @@
     },
     "https://www.axios.com/2026/09/25/meta-ai-muse-privacy": {
       "pol": false,
+      "seen": "2026-09-25",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/25/tillis-trump-xi-meeting-white-house-china": {
+      "pol": true,
+      "seen": "2026-09-25",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/25/trump-xi-china-iran-war-support": {
+      "pol": true,
       "seen": "2026-09-25",
       "v": "v4"
     },
