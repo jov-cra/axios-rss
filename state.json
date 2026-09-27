@@ -2950,12 +2950,27 @@
       "seen": "2026-09-27",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite": {
+      "pol": false,
+      "seen": "2026-09-27",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/27/rates-borrowing-yields-fiscal": {
       "pol": false,
       "seen": "2026-09-27",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/27/rural-voters-cost-of-living-midterms": {
+      "pol": true,
+      "seen": "2026-09-27",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/27/terrorism-raf-fairford-base-us-air-force": {
+      "pol": true,
+      "seen": "2026-09-27",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations": {
       "pol": true,
       "seen": "2026-09-27",
       "v": "v4"
