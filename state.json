@@ -2925,8 +2925,28 @@
       "seen": "2026-09-28",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/28/ai-pioneers-intelligence-explosion": {
+      "pol": false,
+      "seen": "2026-09-28",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/28/dario-amodei-artificial-intelligence-ai": {
       "pol": false,
+      "seen": "2026-09-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/28/economic-legacy-biden-immigration-surge": {
+      "pol": false,
+      "seen": "2026-09-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/28/fbi-kash-patel-andrew-bailey-leaves": {
+      "pol": true,
+      "seen": "2026-09-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier": {
+      "pol": true,
       "seen": "2026-09-28",
       "v": "v4"
     },
@@ -2937,6 +2957,11 @@
     },
     "https://www.axios.com/2026/09/28/mike-johnson-midterms-house-republicans": {
       "pol": true,
+      "seen": "2026-09-28",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/28/spacex-starship-orbital-flight": {
+      "pol": false,
       "seen": "2026-09-28",
       "v": "v4"
     },
