@@ -2915,8 +2915,18 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/love-me-artist-trump-ad-cease-desist-jmsn": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/midterms-economy-inflation-wages": {
       "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday": {
+      "pol": false,
       "seen": "2026-09-29",
       "v": "v4"
     },
@@ -2925,8 +2935,23 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai": {
       "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/trump-ads-taxpayer-funds": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson": {
+      "pol": true,
       "seen": "2026-09-29",
       "v": "v4"
     },
