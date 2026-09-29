@@ -2910,6 +2910,11 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/ai-czar-white-house-trump-jay-clayton": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/iowa-midterms-farms-trump": {
       "pol": true,
       "seen": "2026-09-29",
@@ -2925,7 +2930,17 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/navy-boeing-fighter-contract-f47": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach": {
       "pol": false,
       "seen": "2026-09-29",
       "v": "v4"
@@ -2940,6 +2955,11 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/supreme-court-trump-third-country-deportations": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai": {
       "pol": false,
       "seen": "2026-09-29",
@@ -2951,6 +2971,21 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/trump-supreme-court-shadow-docket-41-applications": {
       "pol": true,
       "seen": "2026-09-29",
       "v": "v4"
