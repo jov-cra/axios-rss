@@ -2910,8 +2910,28 @@
       "seen": "2026-09-29",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/29/iowa-midterms-farms-trump": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/midterms-economy-inflation-wages": {
+      "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/09/29/protect-college-sports-act-nil-senate": {
       "pol": true,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai": {
+      "pol": false,
+      "seen": "2026-09-29",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic": {
+      "pol": false,
       "seen": "2026-09-29",
       "v": "v4"
     },
