@@ -2985,8 +2985,33 @@
       "seen": "2026-09-30",
       "v": "v4"
     },
+    "https://www.axios.com/2026/09/30/ai-agents-adoption-meta-muse": {
+      "pol": false,
+      "seen": "2026-09-30",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/30/ai-constitution-trump-white-house": {
+      "pol": false,
+      "seen": "2026-09-30",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/30/openai-dots-ai-agent-safety": {
+      "pol": false,
+      "seen": "2026-09-30",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/09/30/renewables-boom-trump-cliff": {
+      "pol": true,
+      "seen": "2026-09-30",
+      "v": "v4"
+    },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
       "pol": false,
+      "seen": "2026-09-30",
+      "v": "v4"
+    },
+    "https://www.axios.com/local/nashville/2026/09/30/christa-pike-execution-stayed-appeals-court": {
+      "pol": true,
       "seen": "2026-09-30",
       "v": "v4"
     },
