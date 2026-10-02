@@ -3060,12 +3060,32 @@
       "seen": "2026-10-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/02/ai-deepfake-election-campaign-lawsuits": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability": {
       "pol": false,
       "seen": "2026-10-02",
       "v": "v4"
     },
     "https://www.axios.com/2026/10/02/bernie-sanders-angie-nixon-florida-dems": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/brazil-election-lula-flavio-bolsonaro-trump-amazon": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/congress-work-days-dc-senate-house": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/house-democrats-midterm-candidates-jeffries": {
       "pol": true,
       "seen": "2026-10-02",
       "v": "v4"
@@ -3116,6 +3136,11 @@
       "v": "v4"
     },
     "https://www.axios.com/local/nashville/2026/10/01/christa-pike-alive-after-failed-execution": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/local/raleigh/2026/10/02/michael-whatley-roy-cooper-republican-ad-spending": {
       "pol": true,
       "seen": "2026-10-02",
       "v": "v4"
