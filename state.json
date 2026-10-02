@@ -3060,8 +3060,28 @@
       "seen": "2026-10-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/02/bernie-sanders-angie-nixon-florida-dems": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/iran-trump-negotiations-war-reasons-fail": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion": {
+      "pol": false,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/02/patriot-missiles-iran-war-saudi-arabia-qatar": {
       "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/wikipedia-ceo-ai-traffic-loss": {
+      "pol": false,
       "seen": "2026-10-02",
       "v": "v4"
     },
