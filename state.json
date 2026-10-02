@@ -3060,6 +3060,11 @@
       "seen": "2026-10-01",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability": {
+      "pol": false,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/02/bernie-sanders-angie-nixon-florida-dems": {
       "pol": true,
       "seen": "2026-10-02",
@@ -3076,6 +3081,21 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/10/02/patriot-missiles-iran-war-saudi-arabia-qatar": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/pope-leo-xiv-catcholic-church-ai-waring-artists": {
+      "pol": false,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/supreme-court-state-climate-lawsuits-preemption": {
+      "pol": true,
+      "seen": "2026-10-02",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/02/trump-new-ai-czar-jay-clayton-dni": {
       "pol": true,
       "seen": "2026-10-02",
       "v": "v4"
