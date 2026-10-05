@@ -3030,7 +3030,32 @@
       "seen": "2026-10-05",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/05/euro-dollar-france-spain": {
+      "pol": false,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/05/gas-tax-holiday-states-high-prices": {
+      "pol": true,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence": {
+      "pol": true,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/05/iran-war-diesel-fuel-costs-school-bus": {
+      "pol": false,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/05/latinos-democrats-trump": {
+      "pol": true,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/05/redistricting-house-republicans-midterms-tom-emmer": {
       "pol": true,
       "seen": "2026-10-05",
       "v": "v4"
@@ -3040,7 +3065,17 @@
       "seen": "2026-10-05",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/05/trump-economy-bessent-sentiment": {
+      "pol": true,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/05/trump-economy-prices-voters-polling": {
+      "pol": true,
+      "seen": "2026-10-05",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/05/trump-us-russia-pneumonic-plague-risk-outbreak": {
       "pol": true,
       "seen": "2026-10-05",
       "v": "v4"
