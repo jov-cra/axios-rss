@@ -3025,6 +3025,11 @@
       "seen": "2026-10-06",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace": {
+      "pol": false,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/06/bryan-johnson-dont-die-autoimmune-diagnosis": {
       "pol": false,
       "seen": "2026-10-06",
@@ -3032,6 +3037,16 @@
     },
     "https://www.axios.com/2026/10/06/democrats-election-gun-control-moms-demand-action": {
       "pol": true,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/06/doj-strip-citizenship-denaturalization-cases-40-people": {
+      "pol": true,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/06/fed-ai-daly-inflation-chips": {
+      "pol": false,
       "seen": "2026-10-06",
       "v": "v4"
     },
@@ -3046,6 +3061,11 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/10/06/missing-details-us-plague-response": {
+      "pol": false,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/06/paramount-warner-bros-discovery-deal-skydance": {
       "pol": false,
       "seen": "2026-10-06",
       "v": "v4"
@@ -3075,12 +3095,22 @@
       "seen": "2026-10-06",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/06/trump-super-pac-taxpayer-funded-ads-reimbursement": {
+      "pol": true,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/06/us-elections-election-monitors": {
       "pol": true,
       "seen": "2026-10-06",
       "v": "v4"
     },
     "https://www.axios.com/2026/10/06/wall-street-profits-banks": {
+      "pol": false,
+      "seen": "2026-10-06",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/06/winter-heating-costs-increase-iran-ukraine-war": {
       "pol": false,
       "seen": "2026-10-06",
       "v": "v4"
