@@ -3120,7 +3120,17 @@
       "seen": "2026-10-07",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads": {
+      "pol": true,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/07/extreme-weather-thunderstorms-insurance-energy-grid": {
+      "pol": false,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/07/france-global-bond-markets": {
       "pol": false,
       "seen": "2026-10-07",
       "v": "v4"
@@ -3130,7 +3140,32 @@
       "seen": "2026-10-07",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia": {
+      "pol": false,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/07/netanyahu-oct-7-warning-israel-election-polls": {
+      "pol": true,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/07/raskin-trump-dc-banners-signs-smithsonian": {
+      "pol": true,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/07/saudi-arabia-syria-houthis-yemen-troops": {
+      "pol": true,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/07/trump-midterm-advisers-foreign-consulting-lacivita-blair": {
+      "pol": true,
+      "seen": "2026-10-07",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/07/trump-taxpayer-funded-ads-poll": {
       "pol": true,
       "seen": "2026-10-07",
       "v": "v4"
