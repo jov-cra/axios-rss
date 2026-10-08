@@ -3150,6 +3150,11 @@
       "seen": "2026-10-08",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity": {
+      "pol": false,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/08/bryan-johnson-dont-die-longevity": {
       "pol": false,
       "seen": "2026-10-08",
@@ -3161,6 +3166,21 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/10/08/food-safety-confidence-record-low-poll": {
+      "pol": false,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/08/hegseth-nidal-hasan-firing-squad-public-tv": {
+      "pol": true,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/08/interest-rate-hikes-fed-waller": {
+      "pol": false,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/08/layoffs-unemployment-labor": {
       "pol": false,
       "seen": "2026-10-08",
       "v": "v4"
@@ -3190,7 +3210,22 @@
       "seen": "2026-10-08",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house": {
+      "pol": false,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/08/trump-fox-news-tension-el-sayed": {
+      "pol": true,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections": {
+      "pol": true,
+      "seen": "2026-10-08",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms": {
       "pol": true,
       "seen": "2026-10-08",
       "v": "v4"
