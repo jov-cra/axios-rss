@@ -3225,12 +3225,37 @@
       "seen": "2026-10-09",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/09/dhs-ice-stelson-democrat-congress-pennsylvania": {
+      "pol": true,
+      "seen": "2026-10-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/09/income-biden-pandemic-inflation": {
+      "pol": false,
+      "seen": "2026-10-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/09/jd-vance-fort-hood-shooter-livestream-execution": {
+      "pol": false,
+      "seen": "2026-10-09",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/09/navi-pillay-nobel-peace-prize-trump": {
       "pol": false,
       "seen": "2026-10-09",
       "v": "v4"
     },
     "https://www.axios.com/2026/10/09/trump-microsoft-immigration-tech": {
+      "pol": true,
+      "seen": "2026-10-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/09/trump-putin-diesel-agreement-ukraine-war": {
+      "pol": true,
+      "seen": "2026-10-09",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/09/white-house-press-secretary-replacing-leavitt": {
       "pol": true,
       "seen": "2026-10-09",
       "v": "v4"
