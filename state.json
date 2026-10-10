@@ -3210,6 +3210,11 @@
       "seen": "2026-10-10",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel": {
+      "pol": true,
+      "seen": "2026-10-10",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war": {
       "pol": true,
       "seen": "2026-10-10",
@@ -3231,6 +3236,11 @@
       "v": "v4"
     },
     "https://www.axios.com/local/nashville/2026/10/03/christa-pike-execution-tennessee-prison-chief-resigns": {
+      "pol": false,
+      "seen": "2026-10-10",
+      "v": "v4"
+    },
+    "https://www.axios.com/local/nashville/2026/10/10/christa-pike-hospital-failed-lethal-injection-tennessee": {
       "pol": false,
       "seen": "2026-10-10",
       "v": "v4"
