@@ -3115,8 +3115,28 @@
       "seen": "2026-10-13",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/13/censys-ai-vibe-coding-exposures": {
+      "pol": false,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/13/earnings-3q-ai-stocks": {
       "pol": false,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/europes-alternative-to-trumps-china-trade-war": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/execution-nidal-hasan-firing-squad-hegseth-stream": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/ilhan-omar-investigation-finances-pirro": {
+      "pol": true,
       "seen": "2026-10-13",
       "v": "v4"
     },
@@ -3125,7 +3145,22 @@
       "seen": "2026-10-13",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/pope-leo-lung-nodule-surgery-successful": {
+      "pol": false,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/13/trump-russia-diesel-deal": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/trump-russian-diesel-deal-betrayal-bipartisan-letter": {
       "pol": true,
       "seen": "2026-10-13",
       "v": "v4"
