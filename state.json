@@ -3105,6 +3105,11 @@
       "seen": "2026-10-13",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/13/axios-ipsos-poll-medicare-for-all-support-surges": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals": {
       "pol": false,
       "seen": "2026-10-13",
@@ -3112,6 +3117,16 @@
     },
     "https://www.axios.com/2026/10/13/earnings-3q-ai-stocks": {
       "pol": false,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/kimberly-guilfoyle-greece-ambassador-resigns-trump": {
+      "pol": true,
+      "seen": "2026-10-13",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/13/trump-russia-diesel-deal": {
+      "pol": true,
       "seen": "2026-10-13",
       "v": "v4"
     },
