@@ -3165,6 +3165,11 @@
       "seen": "2026-10-14",
       "v": "v4"
     },
+    "https://www.axios.com/2026/10/14/ai-tools-are-aiding-would-be-spies": {
+      "pol": false,
+      "seen": "2026-10-14",
+      "v": "v4"
+    },
     "https://www.axios.com/2026/10/14/american-trust-voters-government-gallup": {
       "pol": true,
       "seen": "2026-10-14",
@@ -3177,6 +3182,11 @@
     },
     "https://www.axios.com/2026/10/14/cpi-september-inflation-trump": {
       "pol": false,
+      "seen": "2026-10-14",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/14/doj-california-noncitizen-voters-mail-ballots": {
+      "pol": true,
       "seen": "2026-10-14",
       "v": "v4"
     },
@@ -3206,6 +3216,11 @@
       "v": "v4"
     },
     "https://www.axios.com/2026/10/14/trump-putin-diesel-deal-midterms-russia": {
+      "pol": true,
+      "seen": "2026-10-14",
+      "v": "v4"
+    },
+    "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump": {
       "pol": true,
       "seen": "2026-10-14",
       "v": "v4"
