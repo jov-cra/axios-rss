@@ -1,0 +1,41 @@
+name: Evaluate classifier
+
+# Runs on pushes to a test branch: unit tests, then the classifier over a fixed
+# set of past Axios items and a dry run over the live feed. Writes nothing to
+# the repo; results are uploaded as a workflow artifact.
+on:
+  push:
+    branches: ["v5-*"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - name: Unit tests
+        run: python -m pytest -q tests
+      - name: Classify past items
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AX_MODEL: "claude-haiku-5-5"
+        run: python axios_filter.py --eval tests/fixtures/evalset.tsv --eval-out eval_result.tsv
+      - name: Dry run over the live feed
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AX_MODEL: "claude-haiku-5-5"
+        run: python axios_filter.py --dry-run --report > live_report.tsv; tail -3 live_report.tsv
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: eval
+          path: |
+            eval_result.tsv
+            live_report.tsv
