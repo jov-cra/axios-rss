@@ -13,10 +13,11 @@ FIXTURE = (Path(__file__).parent / "fixtures" / "sample_feed.xml").read_text(enc
 
 
 def _install_fakes():
-    """Feed fetch -> fixture; classifier -> True when 'politics' is in the title."""
+    """Feed fetch -> fixture; classifier -> desk 'politics' when it is in the title."""
     af.fetch = lambda url: FIXTURE
     af.make_client = lambda api_key: "DUMMY_CLIENT"
-    af.classify_politics = lambda client, model, title, desc: "politics" in title.lower()
+    af.classify = lambda client, model, title, desc, keep: (
+        ("politics" if "politics" in title.lower() else "technology"), 1)
 
 
 # --------------------------------------------------------------------------- #
@@ -39,9 +40,9 @@ def test_item_key_and_text():
 
 def test_adjust_head():
     head, _, _ = af.split_feed(FIXTURE)
-    out = af.adjust_head(head, "Axios (no Politics)", "https://x.github.io/axios/feed.xml")
+    out = af.adjust_head(head, "Axios (Tech)", "https://x.github.io/axios/feed.xml")
     assert "lastBuildDate" not in out
-    assert "<title>Axios (no Politics)</title>" in out
+    assert "<title>Axios (Tech)</title>" in out
     assert '<atom:link href="https://x.github.io/axios/feed.xml" rel="self"' in out
 
 
@@ -63,8 +64,9 @@ def test_run_drops_politics_keeps_rest():
     assert "<![CDATA[" in result and "media:content" in result and "dc:creator" in result
     # verdict cached (each item classified at most once)
     v = json.loads(Path(state).read_text())["verdict"]
-    assert v["https://www.axios.com/2026/07/01/sample-politics"]["pol"] is True
-    assert v["https://www.axios.com/2026/07/01/sample-tech"]["pol"] is False
+    assert v["https://www.axios.com/2026/07/01/sample-politics"]["desk"] == "politics"
+    assert v["https://www.axios.com/2026/07/01/sample-tech"]["desk"] == "technology"
+    assert v["https://www.axios.com/2026/07/01/sample-tech"]["v"] == af.PROMPT_VERSION
 
 
 def test_no_api_key_aborts():
@@ -170,73 +172,202 @@ def test_inject_chart_leaves_photos_alone():
 
 
 # --------------------------------------------------------------------------- #
-# Classifier contract (regression, 27.08.2026)
+# Classifier contract (v5, 17.10.2026: desk whitelist on Haiku 5.5)
 # --------------------------------------------------------------------------- #
+import json as _json
+
+
 class _Block:
-    def __init__(self, text): self.text = text
+    def __init__(self, text, type_="text"): self.text, self.type = text, type_
 
 
 class _FakeMessages:
-    """Replies are consumed in order; the last one repeats."""
+    """Replies are consumed in order; the last one repeats. A reply is either a
+    (desk, borderline) tuple, a raw string, or ('STOP', stop_reason)."""
     def __init__(self, *replies):
         self.replies, self.calls, self.kwargs = list(replies), 0, None
     def create(self, **kwargs):
         self.kwargs = kwargs
         reply = self.replies[min(self.calls, len(self.replies) - 1)]
         self.calls += 1
-        return type("M", (), {"content": [_Block(reply)]})()
+        stop, blocks = "end_turn", [_Block("", "thinking")]   # thinking block first, as on 5.5
+        if isinstance(reply, tuple) and reply[0] == "STOP":
+            stop = reply[1]
+        elif isinstance(reply, tuple):
+            blocks.append(_Block(_json.dumps({"desk": reply[0], "borderline": reply[1]})))
+        else:
+            blocks.append(_Block(reply))
+        return type("M", (), {"content": blocks, "stop_reason": stop})()
 
 
 class _FakeClient:
     def __init__(self, *replies): self.messages = _FakeMessages(*replies)
 
 
-# Captured at import time: other tests in this file swap af.classify_politics
-# for a stub via _install_fakes(), so the real function has to be held onto here.
-_REAL_CLASSIFY = af.classify_politics
+# Captured at import time: other tests swap af.classify for a stub.
+_REAL_CLASSIFY = af.classify
+_REAL_HIRES = af._hires
+KEEP = set(af.DEFAULT_KEEP.split(","))
 
 
-def test_keep_is_final_after_one_answer():
-    """A keep costs one call; the drop is the expensive-to-be-wrong direction."""
-    c = _FakeClient("no")
-    assert _REAL_CLASSIFY(c, "m", "t", "d") is False
-    assert c.messages.calls == 1
+def test_keep_desk_is_final_after_one_answer():
+    c = _FakeClient(("ai", False))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("ai", 1)
 
 
-def test_drop_has_to_be_confirmed():
-    """The verdict is cached forever and the API no longer exposes temperature,
-    so a single sampling flip would be frozen for good. A drop is asked twice."""
-    c = _FakeClient("yes", "yes")
-    assert _REAL_CLASSIFY(c, "m", "t", "d") is True
-    assert c.messages.calls == 2
+def test_clear_drop_is_final_after_one_answer():
+    c = _FakeClient(("politics", False))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("politics", 1)
 
 
-def test_unconfirmed_drop_becomes_a_keep():
-    """Disagreement resolves towards keeping — rather let a political item slip
-    through than over-filter."""
-    c = _FakeClient("yes", "no")
-    assert _REAL_CLASSIFY(c, "m", "t", "d") is False
+def test_borderline_drop_is_asked_again_and_keep_wins():
+    c = _FakeClient(("politics", True), ("economy", False))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("economy", 2)
 
 
-def test_classify_accepts_yes_and_no():
-    assert _REAL_CLASSIFY(_FakeClient("Yes", "yes"), "m", "t", "d") is True
-    assert _REAL_CLASSIFY(_FakeClient("No."), "m", "t", "d") is False
+def test_borderline_drop_confirmed_stays_dropped():
+    c = _FakeClient(("society", True), ("society", True))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("society", 2)
 
 
-def test_no_sampling_parameters_are_sent():
-    """temperature / top_p / top_k were removed from the Messages API; sending
-    one raises TypeError in the SDK and takes the whole run down."""
-    c = _FakeClient("no")
-    _REAL_CLASSIFY(c, "m", "t", "d")
-    assert not {"temperature", "top_p", "top_k"} & set(c.messages.kwargs)
+def test_two_refusals_become_refused():
+    c = _FakeClient(("STOP", "refusal"))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("refused", 2)
+
+
+def test_one_refusal_then_answer():
+    c = _FakeClient(("STOP", "refusal"), ("business", False))
+    assert _REAL_CLASSIFY(c, "m", "t", "d", KEEP) == ("business", 2)
+
+
+def test_max_tokens_stop_raises_and_is_not_cached():
+    import pytest
+    with pytest.raises(ValueError):
+        _REAL_CLASSIFY(_FakeClient(("STOP", "max_tokens")), "m", "t", "d", KEEP)
 
 
 def test_classify_rejects_anything_else():
-    """An empty or garbled reply used to become a silent, permanent 'keep'."""
+    """An empty, garbled or off-list reply must never become a cached verdict."""
     import pytest
-    for bad in ("", "maybe", "I think yes"):
+    for bad in ("", "maybe", '{"desk": "sports", "borderline": false}', '{"desk": "ai"}'):
         with pytest.raises(ValueError):
-            _REAL_CLASSIFY(_FakeClient(bad), "m", "t", "d")
+            _REAL_CLASSIFY(_FakeClient(bad), "m", "t", "d", KEEP)
+
+
+def test_request_shape():
+    """Structured output with the full desk enum, low effort, room for thinking,
+    the item as the last user turn, and no sampling parameters (400 / TypeError)."""
+    c = _FakeClient(("ai", False))
+    _REAL_CLASSIFY(c, "claude-haiku-5-5", "Headline", "Sum", KEEP)
+    kw = c.messages.kwargs
+    assert kw["model"] == "claude-haiku-5-5"
+    assert not {"temperature", "top_p", "top_k"} & set(kw)
+    assert kw["max_tokens"] >= 1024
+    assert kw["output_config"]["effort"] == "low"
+    schema = kw["output_config"]["format"]["schema"]
+    assert schema["properties"]["desk"]["enum"] == list(af.DESKS)
+    assert kw["messages"][-1]["role"] == "user" and "<item>" in kw["messages"][-1]["content"]
+
+
+def test_sdk_accepts_output_config():
+    """The pinned SDK must know output_config, otherwise every call raises
+    TypeError and the run aborts fail-closed forever."""
+    import inspect
+    from anthropic.resources.messages import Messages
+    params = inspect.signature(Messages.create).parameters
+    assert "output_config" in params and "temperature" not in params
+
+
+def test_keep_set_is_validated():
+    import pytest
+    for bad in ("", "ai,busines", " , "):
+        with pytest.raises(SystemExit):
+            af.parse_keep(bad)
+    assert af.parse_keep("ai, business") == {"ai", "business"}
+
+
+def _run_with(classify_fn, extra=()):
+    import tempfile, os
+    d = tempfile.mkdtemp()
+    out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
+    _install_fakes()
+    af.classify = classify_fn
+    af.main(["--feed-url", "x", "--api-key", "test", "--out", out, "--state", state, *extra])
+    return out, state
+
+
+def test_partial_failure_aborts():
+    """One of two items failing is above the 30 % threshold: nothing is written."""
+    import os, pytest
+    def flaky(client, model, title, desc, keep):
+        if "politics" in title.lower():
+            raise ValueError("boom")
+        return "technology", 1
+    with pytest.raises(SystemExit):
+        out, _ = _run_with(flaky)
+    # a lenient threshold publishes, and the failed item is left out, not kept
+    out, state = _run_with(flaky, ["--max-fail-ratio", "0.9"])
+    result = open(out).read()
+    assert "sample-tech" in result and "sample-politics" not in result
+    assert "sample-politics" not in open(state).read()     # not cached -> retried
+
+
+def test_empty_result_aborts():
+    import pytest
+    with pytest.raises(SystemExit):
+        _run_with(lambda c, m, t, d, k: ("politics", 1))
+
+
+def test_v4_verdicts_are_reclassified():
+    """A v4 'pol: false' says nothing about the whitelist."""
+    import tempfile, os, json
+    d = tempfile.mkdtemp()
+    out, state = os.path.join(d, "feed.xml"), os.path.join(d, "state.json")
+    Path(state).write_text(json.dumps({"verdict": {
+        "https://www.axios.com/2026/07/01/sample-politics": {"pol": False, "v": "v4", "seen": "2099-01-01"}}}))
+    _install_fakes()
+    af.main(["--feed-url", "x", "--api-key", "test", "--out", out, "--state", state])
+    assert "sample-politics" not in Path(out).read_text()
+    rec = json.loads(Path(state).read_text())["verdict"]["https://www.axios.com/2026/07/01/sample-politics"]
+    assert rec["desk"] == "politics" and rec["v"] == af.PROMPT_VERSION
+
+
+def test_model_change_invalidates_cache():
+    rec = {"desk": "ai", "v": af.PROMPT_VERSION, "m": "model-a", "seen": "2099-01-01"}
+    assert af._cached_desk(rec, "model-a") == "ai"
+    assert af._cached_desk(rec, "model-b") is None
+
+
+def test_keep_set_change_needs_no_reclassification():
+    """keep/drop is derived from the cached desk on every run."""
+    out, state = _run_with(lambda c, m, t, d, k: ("politics" if "politics" in t.lower() else "technology", 1))
+    calls = []
+    def counting(c, m, t, d, k):
+        calls.append(t); return "technology", 1
+    af.classify = counting
+    af.main(["--feed-url", "x", "--api-key", "test", "--out", out, "--state", state,
+             "--keep-desks", "politics,technology"])
+    assert calls == [] and "sample-politics" in Path(out).read_text()
+
+
+def test_hires_decision_is_remembered():
+    """The HEAD check runs once per chart URL; later runs reuse the answer, so the
+    published bytes cannot flip between fallback.png and full.png."""
+    url = "https://datawrapper.dwcdn.net/abc/fallback.png"
+    heads = []
+    class _R:
+        status_code = 200
+    def head(u, **kw):
+        heads.append(u); return _R()
+    old = af.requests
+    af.requests = type("Req", (), {"head": staticmethod(head)})
+    try:
+        af._HIRES_CACHE.clear()
+        assert _REAL_HIRES(url).endswith("/full.png")
+        assert _REAL_HIRES(url).endswith("/full.png")
+        assert len(heads) == 1
+    finally:
+        af.requests = old
 
 
 if __name__ == "__main__":

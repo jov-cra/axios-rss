@@ -25,8 +25,9 @@ jobs:
       - name: Build filtered feed
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # add this secret in repo Settings
-          AX_MODEL: "claude-haiku-4-5-20251001"                 # cheapest model
-          AX_TITLE: "Axios (no Politics)"
+          AX_MODEL: "claude-haiku-5-5"                          # cheapest model
+          AX_TITLE: "Axios (Tech, AI & Business)"
+          AX_KEEP_DESKS: "ai,technology,business,economy,energy_climate,health,science"
           AX_FEED_SELF: "https://jov-cra.github.io/axios-rss/feed.xml"
         run: python axios_filter.py
       - name: Commit feed + state
