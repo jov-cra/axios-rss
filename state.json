@@ -7,6 +7,10 @@
     "https://datawrapper.dwcdn.net/p0gRz/fallback.png": {
       "seen": "2026-10-18",
       "u": "https://datawrapper.dwcdn.net/p0gRz/full.png"
+    },
+    "https://datawrapper.dwcdn.net/tLy3f/fallback.png": {
+      "seen": "2026-10-18",
+      "u": "https://datawrapper.dwcdn.net/tLy3f/full.png"
     }
   },
   "verdict": {
@@ -3391,6 +3395,34 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-18",
       "t": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/18/american-poverty-map-states-california-louisiana": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-18",
+      "t": "The overlooked geography of American poverty",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/18/democrat-2026-republican-winning-streak-kansas": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-18",
+      "t": "Decades-old GOP winning streaks are suddenly at risk",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/18/small-talk-officer-job-social-skills": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-18",
+      "t": "Wanted: Chief small talk officers. Awkward applicants welcome",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/18/unconventional-candidates-2026-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-18",
+      "t": "Anti-party, anti-politician candidates surge in midterms",
       "v": "v5"
     },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
