@@ -3432,6 +3432,13 @@
       "t": "Trump tells Axios why he endorsed Netanyahu's reelection",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-18",
+      "t": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/18/unconventional-candidates-2026-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
