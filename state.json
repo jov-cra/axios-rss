@@ -3447,6 +3447,13 @@
       "t": "I let agents plan a WNBA finals trip (but kept my wallet to myself)",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "How the energy crisis could become a food security crisis",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
@@ -3454,11 +3461,32 @@
       "t": "The budget deficit swells, while the cost of debt rises",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "France riots become Republican midterm boogeyman",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-20",
       "t": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/20/housing-construction-ai-rates": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "Homebuilder sentiment is at a 14-year low",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "The manosphere stars who helped Trump win are losing their shine",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/religious-divide-empathy-democrats-republicans": {
@@ -3473,6 +3501,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-20",
       "t": "Republicans see shrinking boost from redistricting",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo": {
