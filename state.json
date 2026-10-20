@@ -3440,6 +3440,13 @@
       "t": "Zelensky lobbies senators to press White House on alleged intel and weapons curbs",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/20/2026-election-democrats-spending-districts-cash": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "House Democrats forced to make tough choices with limited midterm cash",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -3489,6 +3496,13 @@
       "t": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "Exclusive: House GOP clings to 2026 fundraising lead",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/20/housing-construction-ai-rates": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
@@ -3501,6 +3515,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-20",
       "t": "The manosphere stars who helped Trump win are losing their shine",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "Witkoff to present Putin with peace proposal after talks with Zelensky",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/religious-divide-empathy-democrats-republicans": {
@@ -3529,6 +3550,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-20",
       "t": "Witkoff heads to Oslo, plans Russia trip for peace talks",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-20",
+      "t": "Space X and Tesla exploring merger, CEO Elon Musk says",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote": {
