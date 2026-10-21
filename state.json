@@ -3569,11 +3569,32 @@
       "t": "Why Anthropic can't afford to delay its IPO",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border": {
+      "desk": "defense",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Israeli military conducts massive \"power projection\" operation near Iran's border",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/meta-25-billion-cambridge-analytica-scandal-ruling": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Meta hit with $25 billion penalty for misleading Facebook users",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-21",
       "t": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "The oil market's 2027 relief hopes are fading fast",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models": {
