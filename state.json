@@ -3548,6 +3548,20 @@
       "t": "Mystery mailings put Congress and election offices on edge",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "AI is getting better at hacking power and water systems, new research shows",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/ai-trust-executives-survey": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Executives are more likely to trust AI over themselves",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs": {
       "desk": "business",
       "m": "claude-haiku-5-5",
@@ -3562,11 +3576,32 @@
       "t": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "OpenAI brings its frontier models to rival Google Cloud",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/permitting-bill-critical-stretch": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "The permitting bill enters a critical stretch",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-21",
       "t": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Witkoff asks Putin to resume direct peace talks, Russia releases U.S. detainee",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/to-catch-predator-election-ad-wars": {
