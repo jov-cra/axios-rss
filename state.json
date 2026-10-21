@@ -3548,11 +3548,32 @@
       "t": "Mystery mailings put Congress and election offices on edge",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Why Anthropic can't afford to delay its IPO",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-21",
       "t": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/21/to-catch-predator-election-ad-wars": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-21",
+      "t": "Inside the \"To Catch a Predator\" election's ad wars",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers": {
