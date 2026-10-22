@@ -3684,6 +3684,20 @@
       "t": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/22/trump-maha-adviser-resigns": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-22",
+      "t": "Top health adviser and MAHA ally quits Trump admin",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/22/trump-noncitizen-voting-investigation-restricted-judge": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-22",
+      "t": "Judge curbs Trump administration's noncitizen voting probes",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy": {
       "desk": "world",
       "m": "claude-haiku-5-5",
