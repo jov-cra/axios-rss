@@ -3717,6 +3717,13 @@
       "t": "The religious left makes a play for red-state conservatives",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle": {
+      "desk": "defense",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-23",
+      "t": "Mysterious \"flying triangle\" sighting leads new government release of UFO documents",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/23/senate-midterms-2026-elections-thune-schumer": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -3729,6 +3736,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-23",
       "t": "Why soaring prices aren't breaking America's diesel habit",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-23",
+      "t": "DOJ sues to block Alaska election results if GOP incumbent loses",
       "v": "v5"
     },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
