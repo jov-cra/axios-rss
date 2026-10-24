@@ -3693,6 +3693,13 @@
       "t": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-24",
+      "t": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
