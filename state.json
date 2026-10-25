@@ -3634,11 +3634,32 @@
       "t": "Chain-reaction chaos threatens to unleash new risks on the world",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-25",
+      "t": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/25/josh-shapiro-2028-questions": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-25",
+      "t": "Shapiro looks like a 2028 powerhouse — with an asterisk",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-25",
       "t": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/25/serbia-election-2026-student-protests-vucic": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-25",
+      "t": "Student movement topples Serbia's longtime ruling party",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/trump-doj-midterms-interference": {
