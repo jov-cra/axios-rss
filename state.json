@@ -3634,6 +3634,13 @@
       "t": "Chain-reaction chaos threatens to unleash new risks on the world",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-25",
+      "t": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/25/trump-doj-midterms-interference": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
