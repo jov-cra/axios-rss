@@ -3624,6 +3624,13 @@
       "t": "Trump's DOJ barrels into midterms with lawsuits, raids and arrests",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/26/ai-economists-furman-policy": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-26",
+      "t": "Economic policy vets see risks in AI overreliance",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -3652,6 +3659,20 @@
       "t": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-26",
+      "t": "The anti-Bibi candidate who has Netanyahu on his heels",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-26",
+      "t": "Brazil's election ignites MAGA's midterm warnings",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -3659,11 +3680,25 @@
       "t": "Meta's $42B in penalties is a warning to AI",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-26",
+      "t": "Trump allies fall in two elections as Netanyahu faces next test",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-26",
       "t": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/26/trump-sports-texas-midterms-young-men": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-26",
+      "t": "Scoop: Trump enlists football stars for final midterm push in Texas",
       "v": "v5"
     },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
