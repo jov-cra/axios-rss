@@ -3644,6 +3644,27 @@
       "t": "Scoop: Trump enlists football stars for final midterm push in Texas",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-27",
+      "t": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-27",
+      "t": "Socialist civil war engulfs Los Angeles mayor race",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-27",
+      "t": "Israel braces for an election each side warns could bring ruin",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
