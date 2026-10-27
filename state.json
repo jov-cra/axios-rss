@@ -3665,11 +3665,25 @@
       "t": "Israel braces for an election each side warns could bring ruin",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-27",
+      "t": "Israeli turnout hits 53-year high, a bad sign for Netanyahu",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-27",
       "t": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/senate-democrats-permitting-bill": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-27",
+      "t": "Key Senate Democrats set high bar for permitting bill support",
       "v": "v5"
     },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
