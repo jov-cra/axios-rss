@@ -3698,6 +3698,13 @@
       "t": "U.S. granting visas to Flávio Bolsonaro and family",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/28/2026-election-democrats-house-midterm-results": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "\"Nauseously optimistic\": Anxious House Democrats brace for midterm Election Day",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/28/cybersecurity-black-october-ai-hacks": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -3745,6 +3752,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-28",
       "t": "Democrats try to win over MAHA voters",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/mississippi-senate-scott-colom-hyde-smith": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Attack ads flood Mississippi's shockingly-competitive Senate race",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/28/obama-cheesecake-factory-joke-trump-response": {
