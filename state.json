@@ -1,7 +1,7 @@
 {
   "hires": {
     "https://datawrapper.dwcdn.net/QNnzz/fallback.png": {
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "u": "https://datawrapper.dwcdn.net/QNnzz/full.png"
     },
     "https://datawrapper.dwcdn.net/bU2xh/fallback.png": {
@@ -18,26 +18,6 @@
     }
   },
   "verdict": {
-    "https://www.axios.com/2026/09/02/government-corruption-gallup-poll-2026-trump": {
-      "pol": true,
-      "seen": "2026-09-12",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/02/trump-coins-real-money-legal-tender-spend-value": {
-      "pol": false,
-      "seen": "2026-09-12",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/02/witkoff-uae-iran-war-trump-bessent": {
-      "pol": true,
-      "seen": "2026-09-12",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/03/alaska-oil-revival-warming-future": {
-      "pol": false,
-      "seen": "2026-09-12",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/03/altman-government-scrutiny-ai-g20": {
       "pol": true,
       "seen": "2026-09-13",
@@ -63,11 +43,6 @@
       "seen": "2026-09-13",
       "v": "v4"
     },
-    "https://www.axios.com/2026/09/03/house-democrats-jeffries-aguilar-golden-perez": {
-      "pol": true,
-      "seen": "2026-09-12",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/03/labor-unions-record-influence-gallup": {
       "pol": false,
       "seen": "2026-09-14",
@@ -81,11 +56,6 @@
     "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran": {
       "pol": false,
       "seen": "2026-09-13",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/03/older-adults-outnumber-youngest-children-globally": {
-      "pol": false,
-      "seen": "2026-09-12",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman": {
@@ -3017,7 +2987,7 @@
     "https://www.axios.com/2026/10/19/gas-prices-republicans-affordability-question": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The affordability question Republicans can't escape",
       "v": "v5"
     },
@@ -3031,7 +3001,7 @@
     "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
       "v": "v5"
     },
@@ -3045,14 +3015,14 @@
     "https://www.axios.com/2026/10/19/steve-scalise-house-republicans-midterm-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Inside the GOP's fight to avoid a House wipeout",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/19/supreme-court-home-distilling-moonshine-ban": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Could you soon make your own moonshine? SCOTUS takes up 160-year-old ban",
       "v": "v5"
     },
@@ -3066,638 +3036,673 @@
     "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump open to summit with Xi and Putin — to discuss denuclearization",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/19/watch-media-trends-live-2026": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "WATCH: The Axios Media Trends Live summit",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/19/zelensky-blumenthal-tillis-ukraine-russia-war-intelligence": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Zelensky lobbies senators to press White House on alleged intel and weapons curbs",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/2026-election-democrats-spending-districts-cash": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "House Democrats forced to make tough choices with limited midterm cash",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "AI takes on great experiment in self-rule",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "I let agents plan a WNBA finals trip (but kept my wallet to myself)",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/energy-crisis-food-security-crisis": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "How the energy crisis could become a food security crisis",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Exclusive: OpenAI has acquired Orchestra Bio",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/federal-deficit-debt-interest-rates": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The budget deficit swells, while the cost of debt rises",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/french-protests-trump-republicans-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "France riots become Republican midterm boogeyman",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/goldman-ai-energy-infrastructure-bottleneck": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Exclusive: House GOP clings to 2026 fundraising lead",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/housing-construction-ai-rates": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Homebuilder sentiment is at a 14-year low",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/joe-rogan-trump-vance-young-men": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The manosphere stars who helped Trump win are losing their shine",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Witkoff to present Putin with peace proposal after talks with Zelensky",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/religious-divide-empathy-democrats-republicans": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Empathy divides Americans by religion, with white evangelicals standing apart",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/republicans-redistricting-boost-shrinking-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Republicans see shrinking boost from redistricting",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/rubio-zelensky-trump-directive-harm-ukraine-putin": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/russia-ukraine-peace-talks-trump-witkoff-oslo": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Witkoff heads to Oslo, plans Russia trip for peace talks",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/spacex-tesla-merger-talks": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Space X and Tesla exploring merger, CEO Elon Musk says",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/trump-democrats-elections-rallies-comments-vote": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump goes full apocalypse in anti-Dems midterms message",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/20/white-powder-letters-congress-election-offices": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Mystery mailings put Congress and election offices on edge",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "AI is getting better at hacking power and water systems, new research shows",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/ai-trust-executives-survey": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Executives are more likely to trust AI over themselves",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Why Anthropic can't afford to delay its IPO",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/democrats-2026-election-spoiler-third-party-dccc": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/israel-military-training-sortie-iran-border": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Israeli military conducts massive \"power projection\" operation near Iran's border",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/meta-25-billion-cambridge-analytica-scandal-ruling": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Meta hit with $25 billion penalty for misleading Facebook users",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/mississippi-senate-competitive-hyde-smith-colom": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Senate Republicans fear Mississippi is in play",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/oil-prices-inflation-central-banking": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The oil market's 2027 relief hopes are fading fast",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "OpenAI brings its frontier models to rival Google Cloud",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/permitting-bill-critical-stretch": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The permitting bill enters a critical stretch",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "AI uncovers massive flaw in web's foundational code",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Witkoff asks Putin to resume direct peace talks, Russia releases U.S. detainee",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/to-catch-predator-election-ad-wars": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Inside the \"To Catch a Predator\" election's ad wars",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Democrats accuse Trump of using prosecution threats to pressure election officials",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "When AI models refuse to fight hackers",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "White House to Politico: Retract stories or face \"consequences\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/airline-prices-fuel-costs": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Airlines' new normal: Higher fares, fewer flights",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/permitting-deal-lobbying-blitz-hurdles": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Permitting deal draws lobbying blitz as hurdles mount",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/spyware-phones-security-threats": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Hackers are turning web browsing into a spyware trap",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/texas-brandon-gill-freedom-caucus-house-republican": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Some Freedom Caucus members want Brandon Gill out",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/trump-maha-adviser-resigns": {
       "desk": "health",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Top health adviser and MAHA ally quits Trump admin",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/trump-noncitizen-voting-investigation-restricted-judge": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Judge curbs Trump administration's noncitizen voting probes",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/vance-ohio-ad-controversy": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "\"Stop whining\": What Vance's take on Ohio ad controversy means for 2028",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/22/young-adults-poll-midterm-motivator-opposing-trump": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Young Americans are losing faith in the future — and Trump",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Wall Street prepares for AI's \"day after\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/democrats-religious-left-texas-kansas-talarico-hamilton": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The religious left makes a play for red-state conservatives",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/new-ufo-documents-flying-triangle": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Mysterious \"flying triangle\" sighting leads new government release of UFO documents",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/senate-midterms-2026-elections-thune-schumer": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Senate control hinges on unwanted nominees",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/soaring-prices-diesel-habit": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Why soaring prices aren't breaking America's diesel habit",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/trump-administration-sues-alaska-dan-sullivan": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "DOJ sues to block Alaska election results if GOP incumbent loses",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/23/trump-impeachment-democrats-darializa-tlaib-left": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "\"People are tired of theater\": The left sours on \"performative\" Trump impeachment",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Washington's message to AI execs: please shut up",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/24/axios-ahead-2028": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Axios ahead: 2028 and beyond",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/24/musk-ukraine-starlink-starshield-speed": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Speed restrictions on Musk's Starlink lifted in Ukraine, defense ministry says",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/ai-cybersecurity-politics-risks-2028": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Chain-reaction chaos threatens to unleash new risks on the world",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/josh-shapiro-2028-questions": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Shapiro looks like a 2028 powerhouse — with an asterisk",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/serbia-election-2026-student-protests-vucic": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Student movement topples Serbia's longtime ruling party",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/25/trump-doj-midterms-interference": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump's DOJ barrels into midterms with lawsuits, raids and arrests",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/ai-economists-furman-policy": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Economic policy vets see risks in AI overreliance",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Inside Anthropic's massive — and wild — IPO prospectus",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Anthropic's IPO outlines AI's extraordinary risks",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Lula beats Bolsonaro to win Brazil presidential election",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/campaign-ads-victims-crime-murder-rape": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Campaigns drag grieving families into midterm attack ads",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/democrats-trump-diesel-deal": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Exclusive: Democrats lay groundwork to probe Trump's diesel deal",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "The anti-Bibi candidate who has Netanyahu on his heels",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/james-comey-national-defense-information-charges": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "James Comey charged again by the DOJ",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Brazil's election ignites MAGA's midterm warnings",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Meta's $42B in penalties is a warning to AI",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/trump-allies-brazil-serbia-elections-netanyahu-israel": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump allies fall in two elections as Netanyahu faces next test",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/26/trump-sports-texas-midterms-young-men": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Scoop: Trump enlists football stars for final midterm push in Texas",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/dsa-socialists-la-mayor-race-israel-raman-bass": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Socialist civil war engulfs Los Angeles mayor race",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/israel-election-netanyahu-eisenkot": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Israel braces for an election each side warns could bring ruin",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/israel-election-turnout-netanyahu": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Israeli turnout hits 53-year high, a bad sign for Netanyahu",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Israeli exit polls: Netanyahu bloc loses, but Eisenkot's short of clear majority",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/rubio-venezuela-maria-machado-elections": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Rubio warns Venezuela's Machado: Street protests won't get you democracy",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/senate-democrats-permitting-bill": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Key Senate Democrats set high bar for permitting bill support",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/senate-majority-democrats-republicans-schumer-thune": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Senate control could hang in limbo for weeks after Election Day",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/trump-abdul-el-sayed-muslim-faith-midterm-campaign": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Trump escalates anti-Muslim rhetoric before midterms",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/27/trump-applauds-canadian-separatist-trade-talks": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-10-27",
+      "seen": "2026-10-28",
       "t": "Trump praises Canadian separatists amid delicate trade talks",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "U.S. granting visas to Flávio Bolsonaro and family",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Republicans fear \"red scream\" could depress GOP voter turnout",
       "v": "v5"
     },
     "https://www.axios.com/local/chicago/2026/09/23/chicago-12-month-moratorium-data-centers-ai-johnson-pritzker-trump": {
