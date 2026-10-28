@@ -3705,6 +3705,13 @@
       "t": "Inside \"Black October\": AI's cyber scare delivers a Y2K lesson",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Dolores Huerta, pioneering labor activist, dies at 96",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/28/election-security-paper-ballots-audits": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
@@ -3712,11 +3719,46 @@
       "t": "The real election tech vulnerabilities in 2026",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/28/gop-poll-ramaswamy-ad-damage": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Exclusive: Controversial ad backfiring on Ramaswamy, GOP poll finds",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Israel faces weeks of political wrangling after deadlocked election",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/28/maha-democrats-health-voters-food-pesticides": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-28",
       "t": "Democrats try to win over MAHA voters",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/obama-cheesecake-factory-joke-trump-response": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Cheesecake Factory, tan suits, and the staying power of culture wars",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/28/private-equity-democrats-election-elizabeth-warren": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-28",
+      "t": "Private equity's political problem",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms": {
