@@ -3773,11 +3773,25 @@
       "t": "Vance tells top Iranian official negotiations must address nuclear program",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/29/cape-canaveral-space-race-launch": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-29",
+      "t": "Cape Canaveral in its \"boom cycle\" of launches",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/29/democrats-medicare-for-all-ice-israel": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-29",
       "t": "The left's 2027 wishlist",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/29/permitting-bill-energy-landscape": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-29",
+      "t": "Exclusive: How the permitting bill could change the  energy landscape",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/29/republicans-trump-husted-ass": {
