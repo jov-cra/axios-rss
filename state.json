@@ -3773,6 +3773,13 @@
       "t": "Vance tells top Iranian official negotiations must address nuclear program",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/29/alaska-senate-race-dan-sullivan-trump": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-29",
+      "t": "The bizarre twist shaking up Alaska's Senate race and catching Trump's ire",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/29/cape-canaveral-space-race-launch": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
@@ -3785,6 +3792,20 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-29",
       "t": "The left's 2027 wishlist",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/29/midterms-election-lawsuits-ballot-disputes": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-29",
+      "t": "Election Day isn't here, but the ballot battles are",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-29",
+      "t": "After losing his majority, Netanyahu tries to delegitimize election results",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/29/permitting-bill-energy-landscape": {
