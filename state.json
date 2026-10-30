@@ -3810,11 +3810,39 @@
       "t": "Corporate America's Trump trap",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-30",
+      "t": "Trump DOJ loses last-minute California ballot bid",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/30/energy-democrats-congress-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-30",
       "t": "Why energy will have a starring role if Democrats take Congress",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/30/ice-agent-indicted-mario-morales-houston": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-30",
+      "t": "Texas grand jury indicts ICE agent accused of using SUV as weapon",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/30/iran-war-bessent-treasury-report-sanctions": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-30",
+      "t": "U.S. blockade, sanctions crippling Iran's economy, Treasury report says",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-30",
+      "t": "Judge to probe whether Trump officials lied in golf course case",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/30/key-house-democrat-permitting-bill-gold-rush-gas": {
@@ -3829,6 +3857,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-10-30",
       "t": "Pope Leo XIV becomes first pope to vote in U.S. election",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/30/ro-khanna-endorse-vang-matsui-jones-gomez-aoc": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-30",
+      "t": "Scoop: Ro Khanna endorses challengers to three fellow California House Democrats",
       "v": "v5"
     },
     "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge": {
