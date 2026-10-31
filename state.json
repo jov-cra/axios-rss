@@ -3800,11 +3800,25 @@
       "t": "Judge blocks DOJ from threatening election workers before midterms",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/31/ev-driveway-divide-renters-homeowners": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-31",
+      "t": "New Census data reveal a homeowner-renter divide in America's electric-car transition",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-10-31",
       "t": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-31",
+      "t": "The AI trade's trick-or-treat earnings season",
       "v": "v5"
     },
     "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs": {
