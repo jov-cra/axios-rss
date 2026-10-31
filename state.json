@@ -3842,6 +3842,13 @@
       "t": "D.C., Virginia sue to block Trump's 250-foot arch",
       "v": "v5"
     },
+    "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-10-31",
+      "t": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/10/31/your-election-night-cheat-sheet": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
