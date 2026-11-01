@@ -3780,11 +3780,25 @@
       "t": "Fight over race questions intensifies ahead of 2030 Census deadline",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-01",
+      "t": "Sen. Chris Murphy hospitalized after suffering stroke",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-01",
       "t": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-01",
+      "t": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate": {
