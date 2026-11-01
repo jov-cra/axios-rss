@@ -3787,11 +3787,32 @@
       "t": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-01",
+      "t": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-01",
+      "t": "Behind the Curtain: OpenAI's post-election power play",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/01/trump-georgia-elections-justice-department-raffensper": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-01",
       "t": "Trump's election probes find an opening in Georgia",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-01",
+      "t": "Trump has frank call with Netanyahu about next move in Iran war",
       "v": "v5"
     },
     "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs": {
