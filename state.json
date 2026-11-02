@@ -3771,11 +3771,74 @@
       "t": "Trump has frank call with Netanyahu about next move in Iran war",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/02/apple-iphone-duo-foldable-review": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "I tested Apple's $2,000 iPhone Duo. It's a fascinating experiment, but the price is hard to justify.",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/doomsday-apocalypse-iran-war-ai-financial-insecurity": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "The internet's latest obsession: The end of the world",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/el-nino-us-power-grid-winter-2026": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "America's changing power grid faces a powerful El Niño",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/europe-supermarket-fridges-attacks-food": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "Europe's fridges are getting hacked. Could America be next?",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/02/haley-stevens-house-democrats-remove-caucus": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-02",
       "t": "Haley Stevens faces push for removal from House Dem caucus",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/pharma-profits-specialized-treatments-blockbuster-drugs": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "Pharma's next cash cows could be specialized treatments",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/republicans-senate-red-states-finger-pointing": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "\"Arrogance\": 3 GOP Senate candidates blasted over costly red-state rescues",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "Trump to Axios: \"No rush\" to decide on restarting war in Iran",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/trump-musk-democrats": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "Trump vows to protect Musk, floats pre-emptive staff pardons",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-02",
+      "t": "Trump administration turns to SCOTUS in California ballot case",
       "v": "v5"
     },
     "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs": {
