@@ -3799,6 +3799,13 @@
       "t": "Trump administration turns to SCOTUS in California ballot case",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/03/2026-election-security-states": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "States take steps to secure vote after federal pullback",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/03/2026-midterm-election-results-red-mirage-senate-races": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -3825,6 +3832,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-03",
       "t": "Democrats could learn wrong message from a blowout victory",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Election night opens with Trump in battle mode",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/election-day-polls-doj-observers": {
@@ -3855,6 +3869,13 @@
       "t": "Fired general accused of being source for Wall Street Journal, NYT",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Haley Stevens requests U.S. marshals' protection after death threats",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats": {
       "desk": "business",
       "m": "claude-haiku-5-5",
@@ -3867,6 +3888,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-03",
       "t": "What's on the line for health care in the midterms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "That dream job offer might be from a North Korean hacker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue": {
