@@ -3799,11 +3799,88 @@
       "t": "Trump administration turns to SCOTUS in California ballot case",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/03/2026-midterm-election-results-red-mirage-senate-races": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Charted: Why early midterm results can be misleading",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/03/2026-midterms-polls-predictions": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-03",
       "t": "Final polls, models and markets see a \"blue tsunami\"",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Three questions that will define AI's political power",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/democrats-midterms-image-negative-2028": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Democrats could learn wrong message from a blowout victory",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/election-day-polls-doj-observers": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "DOJ sending 1,000 election monitors to all 50 states",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/election-night-midterms-energy": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "What we're watching on election night for energy",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/elon-musk-spacex-boost-mobile-wireless-market": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Elon Musk's next target: a major shake-up of America's wireless market",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/fired-general-leak-probe-wsj-nyt": {
+      "desk": "defense",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Fired general accused of being source for Wall Street Journal, NYT",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Prediction markets have a lot riding on the blue wave",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/midterm-elections-health-care-issues": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "What's on the line for health care in the midterms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Voting machine chaos hits key House battleground",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/03/republican-campaign-ads-trump-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-03",
+      "t": "Trump vanishes from GOP campaign ads",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/republicans-midterms-loss-blame-trump": {
