@@ -3924,6 +3924,13 @@
       "t": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Global leaders weigh in on America's midterm shake-up",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -3936,6 +3943,34 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-04",
       "t": "Behind the Curtain: The Trump obliteration",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/democrats-election-health-care-agenda-divisions": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Democrats will face a health care stress test",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/democrats-midterms-energy-costs": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Democrats win chance to take on energy costs",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Democrats vow Trump investigations, but voters have another priority too",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Trump can't pack the Fed board with allies now",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results": {
@@ -3957,6 +3992,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-04",
       "t": "Hakeem Jeffries gets the majority of his dreams",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Vance says the Iran war cost Republicans the midterms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/juliana-stratton-black-women-senate-record": {
@@ -4029,6 +4071,20 @@
       "t": "GOP's red wall comes crashing down",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Mike Johnson bows out of leadership after crushing House GOP defeat",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/state-scalise-house-republicans-minority-leader-midterms": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Scalise, Jordan vie to lead House Republicans reeling from midterm rebuke",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4048,6 +4104,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-04",
       "t": "Trump says GOP lost because he wasn't on ballot, is \"willing to accept\" results",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Women ride midterm blue wave to historic gains",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
