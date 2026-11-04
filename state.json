@@ -3924,11 +3924,81 @@
       "t": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "\"What we just witnessed was an AI earthquake\": Voters revolt against tech at polls",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/behind-the-curtain-the-trump-obliteration": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Behind the Curtain: The Trump obliteration",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "The 5 biggest shockers of Democrats' stunning night",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/gops-redistricting-firewall-pummeled-by-blue-wave": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "GOP's redistricting firewall pummeled by blue wave",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/hakeem-jeffries-democrats-left-majority-win": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Hakeem Jeffries gets the majority of his dreams",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/04/juliana-stratton-black-women-senate-record": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-04",
       "t": "Stratton's win sets up Senate first for 3 Black women",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/latino-voters-democrats-shift-trump-texas-gop": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Latinos' rejection of GOP boosts Dems in Texas upsets",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "El-Sayed becomes first Muslim U.S. senator",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/midterm-election-winners-losers-results": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Everything you need to know about last night in under 1,000 words",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/midterm-takeaways-blue-wave-trump-democrats": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/musk-republicans-midterm-gop-texas": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Musk laughs off election drubbing with space lasers joke",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley": {
@@ -3945,11 +4015,46 @@
       "t": "Democrats beat back GOP Senate challenge in N.H. with Pappas win",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/04/republicans-midterms-johnson-trump-scalise": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "House Republicans torch each other over \"brutal\" midterms losses",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/senate-republicans-trump-midterm-elections": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "GOP's red wall comes crashing down",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Talarico flips Texas Senate seat in historic Democratic breakthrough",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-04",
       "t": "Trump turns his ire toward Fox News on election night",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Trump says GOP lost because he wasn't on ballot, is \"willing to accept\" results",
+      "v": "v5"
+    },
+    "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "How Texas went Democratic",
       "v": "v5"
     },
     "https://www.axios.com/local/charlotte/2026/10/30/jonestown-fox-news-viral-clip-madpark-designs": {
@@ -3963,6 +4068,13 @@
       "pol": false,
       "seen": "2026-10-01",
       "v": "v4"
+    },
+    "https://www.axios.com/local/des-moines/2026/11/04/iowa-senate-election-win-hinson-turek": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-04",
+      "t": "Josh Turek delivers flips control of Senate with Iowa upset",
+      "v": "v5"
     },
     "https://www.axios.com/local/nashville/2026/09/30/christa-pike-execution-stayed-appeals-court": {
       "pol": true,
