@@ -3980,6 +3980,13 @@
       "t": "Read: Hakeem Jeffries' letter officially launching his bid for House speaker",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/04/house-republicans-steve-scalise-jim-jordan-minority-leader": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "House Republicans swing from \"shock\" to fury",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4132,6 +4139,20 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-05",
       "t": "Women ride midterm blue wave to historic gains",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "House Democrats face epic power struggle over their massive majority",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "After midterm defeat, Trump faces mostly bad options in Iran",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
