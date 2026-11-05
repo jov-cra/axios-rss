@@ -4141,6 +4141,48 @@
       "t": "Women ride midterm blue wave to historic gains",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/05/2026-midterms-democrats-state-legislatures-trifectas": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "75% of Americans could have a Democratic governor",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Dems' rout opens door to \"big test\" and a packed 2028 field",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Democrats' big challenge on health care costs",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/democrats-midterms-lame-duck-permitting-bill": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Democrats' big win clouds the permitting picture",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Why Pete Hegseth could fall through \"thin ice\"",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4148,11 +4190,25 @@
       "t": "House Democrats face epic power struggle over their massive majority",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/05/trump-dan-sullivan-alaska-senate-race": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Trump: Sen. Sullivan should get votes cast for Alaska's other Sullivan",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-05",
       "t": "After midterm defeat, Trump faces mostly bad options in Iran",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/vance-maga-power-play-2028": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Vance takes a step toward 2028 in MAGA power play",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
