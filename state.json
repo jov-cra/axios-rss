@@ -4155,6 +4155,13 @@
       "t": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Black voters deliver a GOP reckoning",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4176,6 +4183,20 @@
       "t": "Democrats' big win clouds the permitting picture",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/05/epstein-files-vote-push-investigations": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Epstein files back in spotlight after midterms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4188,6 +4209,41 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-05",
       "t": "House Democrats face epic power struggle over their massive majority",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "DOJ's Harmeet Dhillon resigns",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Democrat locked in Deep South Senate stunner",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Newsom moves to empty California's death row as 2028 looms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Raman ousts Bass in LA mayor race for historic socialist win",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/05/now-comes-the-test-for-dems-household-budget-relief": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-05",
+      "t": "Now comes the test for Dems: household budget relief",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/trump-dan-sullivan-alaska-senate-race": {
