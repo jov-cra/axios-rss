@@ -4226,6 +4226,27 @@
       "t": "Vance takes a step toward 2028 in MAGA power play",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "How AI is enabling faster, more dangerous cyber warfare",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Democrats' blue wave leaves climate behind",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/democrats-oversight-trump-health-rfk": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "How Democrats will use their health oversight powers",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4233,11 +4254,32 @@
       "t": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/06/midterms-results-trump-iran-corruption": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Normal Americans taught an election lesson — again",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/scoop-trump-to-keep-fundraising-hoping-to-retain-political-muscle": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Scoop: Trump to keep fundraising, hoping to retain political muscle",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/06/trump-stock-market-sell-off": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-06",
       "t": "Trump says voters should blame themselves for stock market rout",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/white-evangelicals-shrinking-electorate-republicans": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "White evangelicals lose electoral ground while religious nones expand their influence",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
