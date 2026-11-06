@@ -4247,11 +4247,25 @@
       "t": "How Democrats will use their health oversight powers",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/06/democrats-trump-investigations-congress": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Dems plot a unified case against Trump",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-06",
       "t": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/midterms-results-trump-iran-corruption": {
@@ -4261,11 +4275,46 @@
       "t": "Normal Americans taught an election lesson — again",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/navajo-nation-first-woman-president-tribe": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Navajo Nation elects its first woman president as political battles loom",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/06/scoop-trump-to-keep-fundraising-hoping-to-retain-political-muscle": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-06",
       "t": "Scoop: Trump to keep fundraising, hoping to retain political muscle",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Ex-RFK Jr. adviser says Trump admin corruption prompted resignation",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/06/trump-midterms-arch-felony-appea": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-06",
+      "t": "Trump still defiant after a bruising week",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/trump-stock-market-sell-off": {
