@@ -4278,11 +4278,25 @@
       "t": "White evangelicals lose electoral ground while religious nones expand their influence",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-07",
+      "t": "In 5 states, Republicans may lose every statewide executive race on the ballot",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-07",
       "t": "Netanyahu rival Eisenkot tapped to form Israeli government",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-07",
+      "t": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style": {
