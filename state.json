@@ -4211,11 +4211,32 @@
       "t": "Trump's \"war-time consigliere\" and the Miller Doctrine",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-08",
+      "t": "Behind the Curtain: Texas is the #1 story of America",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-08",
       "t": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-08",
+      "t": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-08",
+      "t": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
