@@ -4218,11 +4218,25 @@
       "t": "Behind the Curtain: Texas is the #1 story of America",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-08",
+      "t": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-08",
       "t": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-08",
+      "t": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight": {
