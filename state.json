@@ -18,44 +18,9 @@
     }
   },
   "verdict": {
-    "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan": {
-      "pol": true,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/15/chuck-edwards-ethics-complaint-sexual-harassment": {
-      "pol": true,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/15/ed-sheeran-loop-tour-macklemore-gaza-backlash": {
-      "pol": false,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/15/house-republicans-epstein-files-thomas-massie": {
-      "pol": true,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/ai-concerns-congress-regulation": {
-      "pol": true,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/business-roundtable-kristen-silverberg-ceo": {
-      "pol": false,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/16/eu-canada-associate-membership-carney-trump": {
       "pol": true,
       "seen": "2026-09-25",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/girls-flag-football-fastest-growing-high-school-sport": {
-      "pol": false,
-      "seen": "2026-09-24",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills": {
@@ -73,24 +38,9 @@
       "seen": "2026-09-25",
       "v": "v4"
     },
-    "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it": {
-      "pol": true,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure": {
       "pol": false,
       "seen": "2026-09-25",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers": {
-      "pol": false,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/trump-data-census-eeoc-cdc-interference": {
-      "pol": true,
-      "seen": "2026-09-24",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/16/trump-fed-interest-rates-lower-call": {
@@ -103,11 +53,6 @@
       "seen": "2026-09-25",
       "v": "v4"
     },
-    "https://www.axios.com/2026/09/16/us-economy-income-census": {
-      "pol": false,
-      "seen": "2026-09-24",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/16/us-houthi-oman-to-discuss-red-sea-crisis": {
       "pol": true,
       "seen": "2026-09-25",
@@ -116,11 +61,6 @@
     "https://www.axios.com/2026/09/16/us-open-ai-shared-risks-china-bessent": {
       "pol": true,
       "seen": "2026-09-25",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/16/warren-ai-pause": {
-      "pol": true,
-      "seen": "2026-09-24",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats": {
@@ -3542,7 +3482,7 @@
     "https://www.axios.com/2026/11/03/2026-election-security-states": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "States take steps to secure vote after federal pullback",
       "v": "v5"
     },
@@ -3556,7 +3496,7 @@
     "https://www.axios.com/2026/11/03/2026-midterms-attack-ads-republicans": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "The brutal 2026 attack ads even rivals had to respect",
       "v": "v5"
     },
@@ -3584,21 +3524,21 @@
     "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Election night opens with Trump in battle mode",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/election-day-polls-doj-observers": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "DOJ sending 1,000 election monitors to all 50 states",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/election-night-midterms-energy": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "What we're watching on election night for energy",
       "v": "v5"
     },
@@ -3619,42 +3559,42 @@
     "https://www.axios.com/2026/11/03/haley-stevens-death-threats-marshals": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Haley Stevens requests U.S. marshals' protection after death threats",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/i-voted-stickers-ice-memorials": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "\"I Voted\" stickers become tributes at ICE memorials",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/kalshi-polymarket-midterms-democrats": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Prediction markets have a lot riding on the blue wave",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/midterm-elections-health-care-issues": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "What's on the line for health care in the midterms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "That dream job offer might be from a North Korean hacker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/03/ny-voting-ballot-polls-ballot-issue": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Voting machine chaos hits key House battleground",
       "v": "v5"
     },
@@ -3682,581 +3622,609 @@
     "https://www.axios.com/2026/11/04/2026-midterm-election-results-world-leaders-react": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Global leaders weigh in on America's midterm shake-up",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "\"What we just witnessed was an AI earthquake\": Voters revolt against tech at polls",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/behind-the-curtain-the-trump-obliteration": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Behind the Curtain: The Trump obliteration",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/democrat-midterms-hegseth-pentagon-investigations": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Key Pentagon priorities in peril after Democratic sweep",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/democrats-election-health-care-agenda-divisions": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats will face a health care stress test",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/democrats-electoral-college-popular-vote-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats' midterm gains could sideline Electoral College by 2028",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/democrats-midterms-energy-costs": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats win chance to take on energy costs",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats vow Trump investigations, but voters have another priority too",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump can't pack the Fed board with allies now",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "The 5 biggest shockers of Democrats' stunning night",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/gops-redistricting-firewall-pummeled-by-blue-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "GOP's redistricting firewall pummeled by blue wave",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/hakeem-jeffries-democrats-left-majority-win": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Hakeem Jeffries gets the majority of his dreams",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/hakeem-jeffries-speaker-house-democrats-letter": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Read: Hakeem Jeffries' letter officially launching his bid for House speaker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/house-republicans-steve-scalise-jim-jordan-minority-leader": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "House Republicans swing from \"shock\" to fury",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Vance says the Iran war cost Republicans the midterms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/juliana-stratton-black-women-senate-record": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Stratton's win sets up Senate first for 3 Black women",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/latino-voters-democrats-shift-trump-texas-gop": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Latinos' rejection of GOP boosts Dems in Texas upsets",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/liv-golf-liquidation-bankruptcy": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "LIV Golf collapse imminent",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "El-Sayed becomes first Muslim U.S. senator",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/midterm-election-winners-losers-results": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Everything you need to know about last night in under 1,000 words",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/midterm-takeaways-blue-wave-trump-democrats": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/musk-republicans-midterm-gop-texas": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Musk laughs off election drubbing with space lasers joke",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrat Roy Cooper flips North Carolina Senate seat",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/new-hampshire-nh-senate-results-sununu-pappas": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats beat back GOP Senate challenge in N.H. with Pappas win",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Oil prices plunge after Vance post on Iran war",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/polling-midterms-accuracy-atlasintel": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Polls missed bigger on the midterms than in 2016",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/republicans-midterms-johnson-trump-scalise": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "House Republicans torch each other over \"brutal\" midterms losses",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/republicans-redistricting-2026-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "The fatal assumption behind Republicans' redistricting strategy",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/senate-republicans-trump-midterm-elections": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "GOP's red wall comes crashing down",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Mike Johnson bows out of leadership after crushing House GOP defeat",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/state-scalise-house-republicans-minority-leader-midterms": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Scalise, Jordan vie to lead House Republicans reeling from midterm rebuke",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Talarico flips Texas Senate seat in historic Democratic breakthrough",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/trump-ballroom-focus-2026-midterm-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Forget the midterm ballots. Trump is back to ballrooms.",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/trump-fox-news-posts-election-night": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump turns his ire toward Fox News on election night",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump says GOP lost because he wasn't on ballot, is \"willing to accept\" results",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Women ride midterm blue wave to historic gains",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/2026-midterms-democrats-state-legislatures-trifectas": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "75% of Americans could have a Democratic governor",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/black-voters-democrats-2026-midterms-trump": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Black voters deliver a GOP reckoning",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/democrats-factions-midterms-test-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Dems' rout opens door to \"big test\" and a packed 2028 field",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/democrats-health-affordability-challenge": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats' big challenge on health care costs",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/democrats-midterms-lame-duck-permitting-bill": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats' big win clouds the permitting picture",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/epstein-files-vote-push-investigations": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Epstein files back in spotlight after midterms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/gen-z-voters-2026-midterms-democrats-house": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Exit polls show young voters swinging back to Democrats after Trump's 2024 gains",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/hegseth-impeachment-midterms-trump": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Why Pete Hegseth could fall through \"thin ice\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "House Democrats face epic power struggle over their massive majority",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/justice-department-midterms-harmeet-dhillon-steps-down": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "DOJ's Harmeet Dhillon resigns",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrat locked in Deep South Senate stunner",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Newsom moves to empty California's death row as 2028 looms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Raman ousts Bass in LA mayor race for historic socialist win",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/now-comes-the-test-for-dems-household-budget-relief": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Now comes the test for Dems: household budget relief",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/trump-dan-sullivan-alaska-senate-race": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump: Sen. Sullivan should get votes cast for Alaska's other Sullivan",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "After midterm defeat, Trump faces mostly bad options in Iran",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump meets with national security team, says Iran war decision coming \"soon\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/05/vance-maga-power-play-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Vance takes a step toward 2028 in MAGA power play",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "How AI is enabling faster, more dangerous cyber warfare",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/democrats-blue-wave-climate-silence": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Democrats' blue wave leaves climate behind",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/democrats-oversight-trump-health-rfk": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "How Democrats will use their health oversight powers",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/democrats-trump-investigations-congress": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Dems plot a unified case against Trump",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "\"Never heard of them\": Meet the incoming House Dems who shocked even their own party",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/jeffries-speaker-democrats-house-calls-petition": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "House Democrats \"inundated\" with calls telling them not to elect Jeffries speaker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/midterms-results-trump-iran-corruption": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Normal Americans taught an election lesson — again",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/navajo-nation-first-woman-president-tribe": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Navajo Nation elects its first woman president as political battles loom",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/scoop-trump-to-keep-fundraising-hoping-to-retain-political-muscle": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Scoop: Trump to keep fundraising, hoping to retain political muscle",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/trump-joe-rogan-calley-means": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Ex-RFK Jr. adviser says Trump admin corruption prompted resignation",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/trump-midterms-arch-felony-appea": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump still defiant after a bruising week",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/trump-stock-market-sell-off": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump says voters should blame themselves for stock market rout",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Vance leads behind-the-scenes push for new Iran deal",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/06/white-evangelicals-shrinking-electorate-republicans": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "White evangelicals lose electoral ground while religious nones expand their influence",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "In 5 states, Republicans may lose every statewide executive race on the ballot",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Netanyahu rival Eisenkot tapped to form Israeli government",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump's \"war-time consigliere\" and the Miller Doctrine",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Behind the Curtain: Texas is the #1 story of America",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/florida-desantis-rubio-2028": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Republicans eye Florida's \"Alligator People\" for 2028",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/massie-president-2028-libertarian": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "MAGA castoffs plot 2028 spoiler bid",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Scoop: Mamdani's bid for 2028 kingmaker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Trump backs Nvidia's Huang amid affair, spy investigation",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "How Texas went Democratic",
       "v": "v5"
     },
@@ -4275,7 +4243,7 @@
     "https://www.axios.com/local/des-moines/2026/11/04/iowa-senate-election-win-hinson-turek": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Josh Turek delivers flips control of Senate with Iowa upset",
       "v": "v5"
     },
@@ -4316,7 +4284,7 @@
     "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-08",
+      "seen": "2026-11-09",
       "t": "Trump's  250-foot arch temporarily blocked by federal judge",
       "v": "v5"
     }
