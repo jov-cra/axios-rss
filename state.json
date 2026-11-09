@@ -4214,6 +4214,69 @@
       "t": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/09/climate-nature-energy-permitting-debate": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Planet-sized problems collide in permitting debate",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/conflicting-job-expectations-unemployment": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Low unemployment, but job worries persist",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/congress-senioritis-lame-duck-shutdown-2026": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Republicans' final weeks in power may be consumed by fights they don't want",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/democrats-make-america-healthy-again-rfk": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Democrats face a tough sell with MAHA voters",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Elon Musk's empire braces for Democratic crackdown",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Jensen Huang spy scandal rocks AI race",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/oil-yields-inflation-growth": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Oil prices and bond yields no longer moving together",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-09",
+      "t": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
