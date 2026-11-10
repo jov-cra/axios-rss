@@ -8,6 +8,10 @@
       "seen": "2026-10-20",
       "u": "https://datawrapper.dwcdn.net/bU2xh/full.png"
     },
+    "https://datawrapper.dwcdn.net/fkfzQ/fallback.png": {
+      "seen": "2026-11-10",
+      "u": "https://datawrapper.dwcdn.net/fkfzQ/full.png"
+    },
     "https://datawrapper.dwcdn.net/p0gRz/fallback.png": {
       "seen": "2026-10-22",
       "u": "https://datawrapper.dwcdn.net/p0gRz/full.png"
@@ -4256,6 +4260,27 @@
       "t": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/10/ai-race-politics-slowdown": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "How Nvidia crisis, politics could deliver the pause AI leaders want",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "AI stocks bounce back — with one notable exception",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "How a MAHA leader turned and torched the White House",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/10/democrats-2028-senate-map": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4263,11 +4288,39 @@
       "t": "House Dems size up 2028 Senate map after midterm landslide",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "The blue wave's tough-on-crime surprise",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-10",
       "t": "France says Iranian hackers sabotaged supermarket refrigerators",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/trump-congress-executive-power": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Trump plans imperial final act to his presidency",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "The new battle for Congress: Trump's veto",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
