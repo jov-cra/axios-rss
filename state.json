@@ -4274,11 +4274,25 @@
       "t": "AI stocks bounce back — with one notable exception",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/10/baaja-permitting-bill-senate": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "The path ahead for the permitting bill",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-10",
       "t": "How a MAHA leader turned and torched the White House",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/cpi-october-inflation-fed": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Price pressures persisted in October",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/democrats-2028-senate-map": {
@@ -4307,6 +4321,41 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-10",
       "t": "France says Iranian hackers sabotaged supermarket refrigerators",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Vance says Hegseth impeachment vote \"isn't about Iran\"",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/hegseth-press-conference-massie-impeachment": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Hegseth comes out swinging against Massie impeachment push",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Harsh new inflation reality",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "Jim Jordan wins House GOP minority leader race",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/10/kash-patel-atlantic-fbi-defamation-records-lawsuit": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-10",
+      "t": "The Atlantic can pursue FBI records in fight with Kash Patel",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/trump-congress-executive-power": {
