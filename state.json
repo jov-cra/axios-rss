@@ -4426,11 +4426,39 @@
       "t": "Dems put Noem on notice",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/11/massie-epstein-files-second-vote": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Outgoing Trump foe Massie forces new Epstein files showdown",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Scoop: U.S. asks Russia to propose new security agreement with Europe",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/11/stephen-miller-focus-men-maga": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-11",
       "t": "Scoop — Stephen Miller's post-midterm focus: MAGA and men",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
