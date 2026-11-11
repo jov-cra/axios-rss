@@ -4377,6 +4377,20 @@
       "t": "The new battle for Congress: Trump's veto",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "The AI industry's week from hell",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chip security",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/11/democratic-leadership-congress-jeffries-schumer": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4384,11 +4398,39 @@
       "t": "The Democratic leadership revolt has a glaring problem",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/11/don-leonard-ohio-democrat-house-jeffries": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Don Leonard isn't a House member yet. He's already rocking Capitol Hill.",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/11/house-democrats-jeffries-speaker-vote-freshmen": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-11",
       "t": "\"Rome is burning\": Incoming House Democrats prove unusually willing to defy leaders",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "House GOP bets on MAGA \"fighter\" Jim Jordan",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/kristi-noem-homeland-security-congress-subpoena": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Dems put Noem on notice",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/11/stephen-miller-focus-men-maga": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-11",
+      "t": "Scoop — Stephen Miller's post-midterm focus: MAGA and men",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
