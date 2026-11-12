@@ -1,5 +1,9 @@
 {
   "hires": {
+    "https://datawrapper.dwcdn.net/JeWVK/fallback.png": {
+      "seen": "2026-11-12",
+      "u": "https://datawrapper.dwcdn.net/JeWVK/full.png"
+    },
     "https://datawrapper.dwcdn.net/QNnzz/fallback.png": {
       "seen": "2026-11-03",
       "u": "https://datawrapper.dwcdn.net/QNnzz/full.png"
@@ -4440,6 +4444,13 @@
       "t": "Scoop: AOC shakes up team again as 2028 decision looms",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Bracing for Nvidia's impact",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/12/consumer-sentiment-midterms-elections": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4461,6 +4472,13 @@
       "t": "Democrats debate taking a page from Trump's economic playbook",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/12/inflation-rates-fed-iran-tariffs": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
@@ -4468,11 +4486,46 @@
       "t": "Jensen Huang's looming ouster triggers an AI earthquake",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-12",
       "t": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Trump pitches Apple's Tim Cook as new Nvidia CEO",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/trump-lutnick-nvidia": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky": {
+      "desk": "defense",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump": {
@@ -4554,6 +4607,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-12",
       "t": "Trump's  250-foot arch temporarily blocked by federal judge",
+      "v": "v5"
+    },
+    "https://www.axios.com/local/washington-dc/2026/11/12/logan-circle-shooting-dc-barricade": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "1 killed, 4 injured in Logan Circle shooting; suspect dead",
       "v": "v5"
     }
   }
