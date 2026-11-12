@@ -4433,6 +4433,55 @@
       "t": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/12/aoc-political-team-changes-2028": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Scoop: AOC shakes up team again as 2028 decision looms",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/consumer-sentiment-midterms-elections": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "How the midterms swing each party's economic feelings",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/democrats-attack-corporate-health-care": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Democrats unite against Big Health Care",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/democrats-debate-trump-economic-playbook": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Democrats debate taking a page from Trump's economic playbook",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Jensen Huang's looming ouster triggers an AI earthquake",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-12",
+      "t": "Murders plunge 15% in America's biggest cities",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
