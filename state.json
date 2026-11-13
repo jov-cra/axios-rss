@@ -4491,11 +4491,53 @@
       "t": "Murders plunge 15% in America's biggest cities",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/democrats-schumer-jeffries-progressives-social-media": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Democrats in power confront the social media trap",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Doctors want liability shield from AI mistakes",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-13",
       "t": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Oil supplies bounce back, but prices are still high",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader": {
@@ -4591,6 +4633,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-13",
       "t": "1 killed, 4 injured in Logan Circle shooting; suspect dead",
+      "v": "v5"
+    },
+    "https://www.axios.com/local/washington-dc/2026/11/13/logan-circle-shooting-dc-barricade": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Inside the aftermath of the Logan Circle shooting",
       "v": "v5"
     }
   }
