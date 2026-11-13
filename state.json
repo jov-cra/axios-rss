@@ -4512,11 +4512,25 @@
       "t": "Democrats in power confront the social media trap",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "The senators who could join Van Hollen's insurgency against Schumer",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-13",
       "t": "Doctors want liability shield from AI mistakes",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/global-trade-supply-hormuz-mckinsey": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "The global economy's Achilles' heels",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries": {
@@ -4526,11 +4540,32 @@
       "t": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/13/jeffries-speaker-house-democrats-pressley-raskin": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Nobody wants to run against Hakeem Jeffries for speaker",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "How the Microsoft outage impacted courts and governments",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump": {
       "desk": "world",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-13",
       "t": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Mississippi River cruise crash has no fatalities, critical injuries",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal": {
@@ -4552,6 +4587,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-13",
       "t": "Senate Dems can look forward to unlikely MAGA allies",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/senate-democrats-van-hollen-schumer-election": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-13",
+      "t": "Senate Dems break 32-year drought on leadership challenges",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
