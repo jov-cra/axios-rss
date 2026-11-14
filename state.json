@@ -1,7 +1,7 @@
 {
   "hires": {
     "https://datawrapper.dwcdn.net/JeWVK/fallback.png": {
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "u": "https://datawrapper.dwcdn.net/JeWVK/full.png"
     },
     "https://datawrapper.dwcdn.net/QNnzz/fallback.png": {
@@ -13,7 +13,7 @@
       "u": "https://datawrapper.dwcdn.net/bU2xh/full.png"
     },
     "https://datawrapper.dwcdn.net/fkfzQ/fallback.png": {
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "u": "https://datawrapper.dwcdn.net/fkfzQ/full.png"
     },
     "https://datawrapper.dwcdn.net/p0gRz/fallback.png": {
@@ -26,94 +26,9 @@
     }
   },
   "verdict": {
-    "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple": {
-      "pol": false,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/beshear-housing-2028-president": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/republicans-dc-bar-chat-trump-oil": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones": {
-      "pol": false,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/trump-stock-market-predecessors": {
-      "pol": false,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/arizona-online-map-ice-agents-polls": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/germany-election-results-afd-merz": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/jared-golden-mike-lawler-house-democrats-reaction": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china": {
-      "pol": false,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
     "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions": {
       "pol": true,
       "seen": "2026-09-30",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/sen-schatz-climate-change-affordability": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/trump-cnn-msnow-politico-suit": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/trump-houthis-yemen-saudi-bin-salman": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/trump-mamdani-new-york-city-meeting": {
-      "pol": false,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/trump-national-security-executive-sledgehammer": {
-      "pol": true,
-      "seen": "2026-09-29",
-      "v": "v4"
-    },
-    "https://www.axios.com/2026/09/21/trump-white-house-pool-tv-ban-audio": {
-      "pol": true,
-      "seen": "2026-09-29",
       "v": "v4"
     },
     "https://www.axios.com/2026/09/22/ai-rsi-meaning-recursive-self-improvement-doom": {
@@ -3892,7 +3807,7 @@
     "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
       "v": "v5"
     },
@@ -3920,7 +3835,7 @@
     "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Vance leads behind-the-scenes push for new Iran deal",
       "v": "v5"
     },
@@ -3934,413 +3849,413 @@
     "https://www.axios.com/2026/11/07/democrats-state-office-sweeps-2026": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "In 5 states, Republicans may lose every statewide executive race on the ballot",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Netanyahu rival Eisenkot tapped to form Israeli government",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump's \"war-time consigliere\" and the Miller Doctrine",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Behind the Curtain: Texas is the #1 story of America",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/florida-desantis-rubio-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Republicans eye Florida's \"Alligator People\" for 2028",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/massie-president-2028-libertarian": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "MAGA castoffs plot 2028 spoiler bid",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "House poised to impeach Pete Hegseth after GOP midterm defeat",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Mamdani's bid for 2028 kingmaker",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "What we know about the mystery woman at the center of Nvidia's spy scandal",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/climate-nature-energy-permitting-debate": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Planet-sized problems collide in permitting debate",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/conflicting-job-expectations-unemployment": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Low unemployment, but job worries persist",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/congress-senioritis-lame-duck-shutdown-2026": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Republicans' final weeks in power may be consumed by fights they don't want",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/democrats-make-america-healthy-again-rfk": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Democrats face a tough sell with MAHA voters",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/elon-musk-midterms-risks-empire": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Elon Musk's empire braces for Democratic crackdown",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/jensen-huang-china-spy-nvidia-fbi-doj": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Sex, secrets and spies: The history of suspected honey traps",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Jensen Huang spy scandal rocks AI race",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/oil-yields-inflation-growth": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Oil prices and bond yields no longer moving together",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Hegseth faces impeachment resolution from a GOP member with little to lose",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/thune-senate-republican-leadership-elections": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Pressure builds on Thune ahead of GOP leadership elections",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump: New Iran attacks \"quite unlikely\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump backs Nvidia's Huang amid affair, spy investigation",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "White House cautiously upbeat about Russia-Ukraine peace talks this week",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/ai-race-politics-slowdown": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "How Nvidia crisis, politics could deliver the pause AI leaders want",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "AI stocks bounce back — with one notable exception",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/baaja-permitting-bill-senate": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The path ahead for the permitting bill",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/calley-means-white-house-maha-fight": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "How a MAHA leader turned and torched the White House",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/cpi-october-inflation-fed": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Price pressures persisted in October",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/credit-card-debt-record-2026-delinquency-income-gap": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Credit card debt hits record high as Americans struggle with cost-of-living",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/democrats-2028-senate-map": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "House Dems size up 2028 Senate map after midterm landslide",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/democrats-crime-border-security-bail": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The blue wave's tough-on-crime surprise",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/doj-charges-terror-plots-europe-us": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "3 charged with plotting terror attacks in U.S., Europe",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "France says Iranian hackers sabotaged supermarket refrigerators",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/hegseth-impeachment-iran-jd-vance": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Vance says Hegseth impeachment vote \"isn't about Iran\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/hegseth-press-conference-massie-impeachment": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Hegseth comes out swinging against Massie impeachment push",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Harsh new inflation reality",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Jim Jordan wins House GOP minority leader race",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/kash-patel-atlantic-fbi-defamation-records-lawsuit": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The Atlantic can pursue FBI records in fight with Kash Patel",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "GOP House rejects Hegseth impeachment effort",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/trump-congress-executive-power": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump plans imperial final act to his presidency",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/trump-iran-war-diplomacy-economic-crackdown": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump swung between war and diplomacy — then chose a third way",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/10/trump-veto-threats-blue-wave": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The new battle for Congress: Trump's veto",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The AI industry's week from hell",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Inside Bessent's Situation Room confrontation with Lutnick over China chip security",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/democratic-leadership-congress-jeffries-schumer": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The Democratic leadership revolt has a glaring problem",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/don-leonard-ohio-democrat-house-jeffries": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Don Leonard isn't a House member yet. He's already rocking Capitol Hill.",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/house-democrats-jeffries-speaker-vote-freshmen": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "\"Rome is burning\": Incoming House Democrats prove unusually willing to defy leaders",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "House GOP bets on MAGA \"fighter\" Jim Jordan",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/kristi-noem-homeland-security-congress-subpoena": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Dems put Noem on notice",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/massie-epstein-files-second-vote": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Outgoing Trump foe Massie forces new Epstein files showdown",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
       "v": "v5"
     },
@@ -4354,245 +4269,259 @@
     "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: U.S. asks Russia to propose new security agreement with Europe",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/stephen-miller-focus-men-maga": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop — Stephen Miller's post-midterm focus: MAGA and men",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/aoc-political-team-changes-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: AOC shakes up team again as 2028 decision looms",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/bracing-for-nvidias-impact": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Bracing for Nvidia's impact",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/consumer-sentiment-midterms-elections": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "How the midterms swing each party's economic feelings",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/democrats-attack-corporate-health-care": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Democrats unite against Big Health Care",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/democrats-debate-trump-economic-playbook": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Democrats debate taking a page from Trump's economic playbook",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/inflation-rates-fed-iran-tariffs": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Jensen Huang's looming ouster triggers an AI earthquake",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Jensen Huang's implosion at Nvidia leaves trail of collateral damage",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "11 names to watch in the Jensen Huang succession search",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scott Colom's win in Mississippi puts political change to the test",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple": {
       "desk": "business",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump pitches Apple's Tim Cook as new Nvidia CEO",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/trump-lutnick-nvidia": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/ukraine-starshield-restricted-spacex-russia-zelensky": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Zelensky says Musk-owned satellite system throttled again, Space X denies it",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/12/violent-crime-homicide-us-cities-trump": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Murders plunge 15% in America's biggest cities",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/democrats-schumer-jeffries-progressives-social-media": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Democrats in power confront the social media trap",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The senators who could join Van Hollen's insurgency against Schumer",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield": {
       "desk": "ai",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Doctors want liability shield from AI mistakes",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "FAA ends hours-long nationwide ground stop",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/global-trade-supply-hormuz-mckinsey": {
       "desk": "economy",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "The global economy's Achilles' heels",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/jeffries-speaker-house-democrats-pressley-raskin": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Nobody wants to run against Hakeem Jeffries for speaker",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "Trump administration delays Medicaid work requirements by six months",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "How the Microsoft outage impacted courts and governments",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump": {
       "desk": "world",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Mississippi River cruise crash has no fatalities, critical injuries",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/oil-markets-iran-prices-trump-deal": {
       "desk": "energy_climate",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Oil supplies bounce back, but prices are still high",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Chris Van Hollen to challenge Schumer for Senate majority leader",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/senate-democrats-republicans-hawley-moreno-banks": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Senate Dems can look forward to unlikely MAGA allies",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/13/senate-democrats-van-hollen-schumer-election": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Senate Dems break 32-year drought on leadership challenges",
       "v": "v5"
     },
@@ -4618,7 +4547,7 @@
     "https://www.axios.com/local/denver/2026/11/09/democrats-whats-next-conference-denver-2028": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Democrats' 2028 presidential auditions begin in Denver",
       "v": "v5"
     },
@@ -4680,7 +4609,7 @@
     "https://www.axios.com/local/washington-dc/2026/11/13/logan-circle-shooting-dc-barricade": {
       "desk": "society",
       "m": "claude-haiku-5-5",
-      "seen": "2026-11-13",
+      "seen": "2026-11-14",
       "t": "Inside the aftermath of the Logan Circle shooting",
       "v": "v5"
     }
