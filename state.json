@@ -4525,11 +4525,46 @@
       "t": "Senate Dems break 32-year drought on leadership challenges",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "AI's four colliding crises",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "FAA back at \"full operations\" after Friday outage, Transportation Sec. says",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/14/faa-ground-stop-saturday": {
       "desk": "technology",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-14",
       "t": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "Wholesale food prices are on the rise",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/14/lutnick-commerce-china": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "MAGA turns on Lutnick amid China spy scandal",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-14",
+      "t": "U.S. loses measles elimination status",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
