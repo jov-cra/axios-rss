@@ -4477,6 +4477,34 @@
       "t": "U.S. loses measles elimination status",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/15/blue-border-wall-democrats-governors-immigration": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-15",
+      "t": "Trump's border crackdown faces a new blue wall of governors and House members",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/15/gen-z-socialism-israel-faith-politics-old-rules": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-15",
+      "t": "Gen Z shatters America's political orthodoxies",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-15",
+      "t": "How Nvidia's scandal knocked thousands off your 401(k)",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/15/space-data-centers-risks-stargazing-report": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-15",
+      "t": "Space data centers could end stargazing as we know it",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
