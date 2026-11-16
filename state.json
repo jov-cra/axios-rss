@@ -4448,6 +4448,62 @@
       "t": "Vance may wait until late spring to reveal 2028 plans",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/16/chain-reaction-nvidia-ai-politics-business": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "The chain-reaction era: Constant shock and awe",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/democrats-trump-midterms-work-together": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "Why Democrats may want to make Trump look good",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/diesel-dips-below-6-per-gallon": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "Average diesel prices are under $6 per gallon for the first time in months",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/employer-health-insurance-rising-costs-survey": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "Employer health cost crunch is worse than projected",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/exclusive-white-house-requires-signoff-before-agency-staffers-testify-to-congress": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "Exclusive: White House requires signoff before staffers testify to Congress",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/16/warren-us-attorney-investigations-threat": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-16",
+      "t": "U.S. attorney targets another Democrat over congressional investigtions",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
