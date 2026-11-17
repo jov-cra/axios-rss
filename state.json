@@ -1,5 +1,9 @@
 {
   "hires": {
+    "https://datawrapper.dwcdn.net/H5ppt/fallback.png": {
+      "seen": "2026-11-17",
+      "u": "https://datawrapper.dwcdn.net/H5ppt/full.png"
+    },
     "https://datawrapper.dwcdn.net/JeWVK/fallback.png": {
       "seen": "2026-11-17",
       "u": "https://datawrapper.dwcdn.net/JeWVK/full.png"
@@ -7,6 +11,10 @@
     "https://datawrapper.dwcdn.net/QNnzz/fallback.png": {
       "seen": "2026-11-03",
       "u": "https://datawrapper.dwcdn.net/QNnzz/full.png"
+    },
+    "https://datawrapper.dwcdn.net/QkC47/fallback.png": {
+      "seen": "2026-11-17",
+      "u": "https://datawrapper.dwcdn.net/QkC47/full.png"
     },
     "https://datawrapper.dwcdn.net/bU2xh/fallback.png": {
       "seen": "2026-10-20",
@@ -4452,11 +4460,46 @@
       "t": "U.S. attorney targets another Democrat over congressional investigtions",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/17/democrats-medicare-for-all-definition": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-17",
       "t": "Democrats' squishy definition of Medicare expansion",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon": {
+      "desk": "defense",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "What is a dirty bomb and how dangerous is the weapon",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "FAA pauses tech upgrade linked to nationwide ground stop",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/government-competence-aviation-infrastructure-crisis": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Behind the Curtain: If competence were cool",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/hakeem-jeffries-speaker-vote-house-democrats": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Hakeem Jeffries shifts tactics ahead of House Democrats' internal speaker vote",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power": {
@@ -4466,11 +4509,39 @@
       "t": "Push to reinstate Jensen Huang tests superstar tech CEO accountability",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/17/jim-jordan-house-gop-rules": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-17",
       "t": "Jordan inherits House GOP fight over punishing rebels",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/nvidia-earnings-report-ceo-transition": {
+      "desk": "business",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Nvidia's earnings mark start of post-Jensen era",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "Jensen Huang agrees to face Congress over Nvidia scandal",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/17/premature-birth-rate-us-high-low": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-17",
+      "t": "U.S. gets another D+ on premature births",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend": {
