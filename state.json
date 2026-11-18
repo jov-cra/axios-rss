@@ -4607,11 +4607,60 @@
       "t": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/18/gasoline-prices-demand": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "U.S. drivers are just absorbing high gasoline prices",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/hakeem-jeffries-black-house-members": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "Jeffries nears historic speakership as power shifts in Congress",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-18",
       "t": "House Dems can't stand the speaker vote drama anymore",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "House Democrats formally nominate Hakeem Jeffries for speaker",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/measles-return-infants-vulnerable": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "America's measles return leaves infants vulnerable",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/trump-garcia-house-oversight": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "House Dems prepare for broad Trump family probe",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "Trump to meet Putin in China amid renewed push to end Ukraine war",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
