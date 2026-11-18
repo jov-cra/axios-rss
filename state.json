@@ -4586,6 +4586,27 @@
       "t": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "The terrifying rise of AI hacking tools",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "Alaska Native strongholds push Peltola into Senate history",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-18",
+      "t": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
