@@ -4666,6 +4666,34 @@
       "t": "Trump to meet Putin in China amid renewed push to end Ukraine war",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/19/anthropic-ipo-ai-research-rsi-forecast": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "AI's great divergence: Machines accelerate as makers unravel",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/china-biotech-policy-warning": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "New alarm over China controlling drug supply chains",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/cybersecurity-worries": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Putting cyber risk in perspective, from the experts (our own CTO)",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/energy-permitting-bill-senate-politics": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Why the Senate energy permitting bill might become law",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/19/hakeem-jeffries-speaker-vote-left-progressives": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
@@ -4673,11 +4701,60 @@
       "t": "\"There'll be no hostage-taking\": The anti-Jeffries rebellion that failed to materialize",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/19/meta-ai-emissions-rise": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Meta rethinks climate goal as AI emissions soar 45%",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/republicans-israel-poll-2028-primary-states": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Poll: Republicans in early 2028 primary states back Israel, not its critics",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/19/republicans-reconciliation-defense-spending": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-19",
       "t": "Republicans lost hope in Reconciliation 3.0",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/tech-outages-bots-conspiracies": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Exclusive: Bots amplified conspiracy theories and panic about recent tech outages",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/tech-outages-emergency-preparedness-prepper-boom": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Doomsday prepping goes mainstream",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Trump backs Elon Musk in latest MAGA breakup",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya": {
+      "desk": "world",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-19",
+      "t": "Myanmar becomes first state found responsible for genocide by UN court",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
