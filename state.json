@@ -1,5 +1,9 @@
 {
   "hires": {
+    "https://datawrapper.dwcdn.net/1YUgj/fallback.png": {
+      "seen": "2026-11-20",
+      "u": "https://datawrapper.dwcdn.net/1YUgj/full.png"
+    },
     "https://datawrapper.dwcdn.net/H5ppt/fallback.png": {
       "seen": "2026-11-20",
       "u": "https://datawrapper.dwcdn.net/H5ppt/full.png"
@@ -4732,6 +4736,48 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-20",
       "t": "Retailers shake up Thanksgiving meal deals amid rising food costs",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/anthropic-public-shareholders": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "Anthropic is public, now comes the hard part",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "Trump secretary's Christian messages to staff went \"too far,\" judge rules",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/democrat-governors-medicaid-expansion-fallbacks": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "Medicaid expansion isn't a \"slam dunk\" for new Dem governors",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "GTA VI hijacks America",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "Phoenix mayor walks fine line on AI boom",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-20",
+      "t": "America's religious \"nones\" move from voters to lawmakers",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill": {
