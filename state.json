@@ -4675,11 +4675,25 @@
       "t": "Behind the Curtain — AI 2027: The reckoning",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-22",
+      "t": "How bitter rivals Buttigieg and Klobuchar went from enemies to friends",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet": {
       "desk": "defense",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-22",
       "t": "Scoop: The Pentagon's case for Canada to \"get serious\" on defense",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/22/scoop-desantis-secret-book-project-fuels-2028-speculation": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-22",
+      "t": "Scoop: DeSantis' secret book project fuels 2028 speculation",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
