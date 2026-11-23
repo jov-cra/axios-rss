@@ -4601,11 +4601,32 @@
       "t": "Scoop: DeSantis' secret book project fuels 2028 speculation",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/23/dnc-super-pacs-limits-2028-primary": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-23",
+      "t": "DNC limits 2028 primary candidates' ties to big-money groups",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-23",
+      "t": "Doctors who disagree with AI could face legal jeopardy",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-23",
       "t": "Trump's top intelligence official is also taking charge of cyber policy",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/23/un-climate-talks-meltdown-aftermath": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-23",
+      "t": "UN climate meltdown raises new doubts about talks",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
