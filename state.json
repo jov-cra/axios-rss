@@ -4613,11 +4613,53 @@
       "t": "UN climate meltdown raises new doubts about talks",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/24/aclu-state-supreme-court-south-democrats-religion": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Scoop: ACLU eyes Supreme Court flips in 11 states",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Behind the Curtain: When reality shouts",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/democrats-medicare-eligibility-affordability-challenges": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Lowering the Medicare eligibility age is harder than it sounds",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal": {
+      "desk": "technology",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Nvidia's one-man board: How Trump inherited Jensen Huang's scandal",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected": {
       "desk": "society",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-24",
       "t": "Scoop: Thanksgiving air travel expected to hit 16-year high",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/the-axios-show-bob-woodwards-memoir-spills-50-years-of-secrets": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "\"The Axios Show\": Bob Woodward's memoir spills 50 years of secrets",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
