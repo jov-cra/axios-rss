@@ -4634,11 +4634,25 @@
       "t": "Behind the Curtain: When reality shouts",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down": {
+      "desk": "energy_climate",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Oil's downward trend is pushing gasoline lower",
+      "v": "v5"
+    },
     "https://www.axios.com/2026/11/24/democrats-medicare-eligibility-affordability-challenges": {
       "desk": "health",
       "m": "claude-haiku-5-5",
       "seen": "2026-11-24",
       "t": "Lowering the Medicare eligibility age is harder than it sounds",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Criminal charge against incoming House Democrat dropped",
       "v": "v5"
     },
     "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal": {
@@ -4660,6 +4674,13 @@
       "m": "claude-haiku-5-5",
       "seen": "2026-11-24",
       "t": "\"The Axios Show\": Bob Woodward's memoir spills 50 years of secrets",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-24",
+      "t": "Trump talks turkey, and his ballroom, at pardoning event",
       "v": "v5"
     },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
