@@ -4653,6 +4653,62 @@
       "t": "Trump talks turkey, and his ballroom, at pardoning event",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "U.S. economy grew at rapid 4.3% pace in third quarter",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/gop-firm-executive-pacs-senators": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "GOP firm's executive linked to effort to oust Republican senators",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/lawsuit-dhs-ice-operation-midway-blitz-figueroa": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "Trump faces looming wave of ICE lawsuits",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/measles-elimination-poll-government-ipsos": {
+      "desk": "health",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "Most blame government for return of measles: Poll",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/thanksgiving-politics-polling": {
+      "desk": "society",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "This Thanksgiving won't be stuffed with politics, Americans say: Poll",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/trump-tariffs-china": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "Trump prepares new round of tariffs on China, other U.S. trading partners",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show": {
+      "desk": "ai",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-25",
+      "t": "\"The people who are supposed to be helping to protect us are also the ones who are profiting.\"",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
