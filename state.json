@@ -4714,6 +4714,20 @@
       "t": "Trump demands investigation into GDP data revisions",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/27/black-friday-online-holiday-deals-cyber-monday": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-27",
+      "t": "Black Friday's frenzy gives way to \"Black November\"",
+      "v": "v5"
+    },
+    "https://www.axios.com/2026/11/27/consumer-spending-cheap-retail": {
+      "desk": "economy",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-27",
+      "t": "America's new bargain hunt",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
