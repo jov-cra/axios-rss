@@ -4660,6 +4660,13 @@
       "t": "Vance and Rubio learn the price of loyalty to Trump",
       "v": "v5"
     },
+    "https://www.axios.com/2026/11/28/congress-sexual-misconduct-house-ethics": {
+      "desk": "politics",
+      "m": "claude-haiku-5-5",
+      "seen": "2026-11-28",
+      "t": "Congress grapples with sexual misconduct",
+      "v": "v5"
+    },
     "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic": {
       "desk": "politics",
       "m": "claude-haiku-5-5",
